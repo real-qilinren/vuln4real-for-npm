@@ -1,0 +1,20 @@
+[
+  {
+    "fileName": "mockery:2.1.0",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/inquirer/v9.2.5/package-lock.json?/mockery:2.1.0",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2022-37614",
+        "severity": "CRITICAL",
+        "cvss": 9.8
+      },
+      {
+        "source": "NPM",
+        "name": "GHSA-gmwp-3pwc-3j3g",
+        "severity": "critical",
+        "cvss": 9.8
+      }
+    ]
+  }
+]

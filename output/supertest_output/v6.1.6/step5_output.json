@@ -1,0 +1,74 @@
+[
+  {
+    "fileName": "express:4.17.1",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/supertest/v6.1.6/package-lock.json?/express:4.17.1",
+    "vulnerabilities": [
+      {
+        "source": "OSSINDEX",
+        "name": "CVE-2022-24999",
+        "severity": "HIGH",
+        "cvss": 7.5
+      }
+    ]
+  },
+  {
+    "fileName": "minimatch:3.0.4",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/supertest/v6.1.6/package-lock.json?test-exclude:6.0.0/minimatch:^3.0.4",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2022-3517",
+        "severity": "HIGH",
+        "cvss": 7.5
+      }
+    ]
+  },
+  {
+    "fileName": "nanoid:3.1.12",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/supertest/v6.1.6/package-lock.json?/nanoid:3.1.12",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2021-23566",
+        "severity": "MEDIUM",
+        "cvss": 2.1
+      }
+    ]
+  },
+  {
+    "fileName": "qs:6.7.0",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/supertest/v6.1.6/package-lock.json?/qs:6.7.0",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2022-24999",
+        "severity": "HIGH",
+        "cvss": 7.5
+      }
+    ]
+  },
+  {
+    "fileName": "request:2.88.2",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/supertest/v6.1.6/package-lock.json?/request:2.88.2",
+    "vulnerabilities": [
+      {
+        "source": "OSSINDEX",
+        "name": "CVE-2023-28155",
+        "severity": "MEDIUM",
+        "cvss": 6.1
+      }
+    ]
+  },
+  {
+    "fileName": "tough-cookie:2.5.0",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/supertest/v6.1.6/package-lock.json?/tough-cookie:2.5.0",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2023-26136",
+        "severity": "CRITICAL",
+        "cvss": 9.8
+      }
+    ]
+  }
+]

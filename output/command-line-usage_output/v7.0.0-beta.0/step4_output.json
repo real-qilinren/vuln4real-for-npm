@@ -1,0 +1,17 @@
+{
+  "laggingDependencies": {
+    "array-back": "6.2.2",
+    "chalk-template": "0.5.0",
+    "table-layout": "3.0.2",
+    "test-runner": "0.10.1",
+    "typical": "7.1.1"
+  },
+  "releaseInterval": {
+    "array-back": 29,
+    "chalk-template": 76,
+    "jsdoc-to-markdown": 267,
+    "table-layout": 104,
+    "test-runner": 91,
+    "typical": 24
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "laggingDependencies": {
+    "basic-auth-connect": "1.0.0",
+    "body-parser": "1.20.1",
+    "eslint": "0.21.2",
+    "express": "4.18.2",
+    "mocha": "2.5.3",
+    "should": "6.0.3",
+    "supertest": "1.2.0",
+    "vary": "1.1.2"
+  },
+  "releaseInterval": {
+    "basic-auth-connect": 0,
+    "body-parser": 30,
+    "eslint": 14,
+    "express": 133,
+    "mocha": 74,
+    "should": 35,
+    "supertest": 12,
+    "vary": 241
+  }
+}

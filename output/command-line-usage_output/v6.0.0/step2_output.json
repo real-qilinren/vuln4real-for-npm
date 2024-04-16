@@ -1,0 +1,6 @@
+{
+  "coveralls": "^3.0.4",
+  "jsdoc-to-markdown": "^5.0.0",
+  "nyc": "^14.1.1",
+  "test-runner": "^0.6.0"
+}

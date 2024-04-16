@@ -1,0 +1,2324 @@
+{
+  "paths": [
+    [
+      "nodeunit",
+      "tap",
+      "opener"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "istanbul-reports",
+      "handlebars"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "istanbul-reports",
+      "handlebars",
+      "async"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "istanbul-reports",
+      "handlebars",
+      "uglify-js",
+      "async"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "istanbul-reports",
+      "handlebars",
+      "uglify-js",
+      "yargs",
+      "decamelize"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "istanbul-reports",
+      "handlebars",
+      "optimist",
+      "minimist"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "coveralls",
+      "request",
+      "tough-cookie"
+    ],
+    [
+      "istanbul",
+      "handlebars"
+    ],
+    [
+      "istanbul",
+      "handlebars",
+      "minimist"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "opener"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "istanbul-reports",
+      "handlebars"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "coveralls",
+      "request",
+      "hawk",
+      "hoek"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "coveralls",
+      "request",
+      "hawk",
+      "sntp",
+      "hoek"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "coveralls",
+      "request",
+      "hawk",
+      "boom",
+      "hoek"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "coveralls",
+      "request",
+      "hawk",
+      "boom",
+      "hoek"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "tap-mocha-reporter",
+      "glob",
+      "minimatch"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "yargs",
+      "y18n"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "test-exclude",
+      "read-pkg-up",
+      "read-pkg",
+      "normalize-package-data",
+      "semver"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "mkdirp",
+      "minimist"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "micromatch",
+      "parse-glob",
+      "glob-base",
+      "glob-parent"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "istanbul-lib-instrument",
+      "babel-generator",
+      "detect-indent",
+      "minimist"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "glob",
+      "minimatch"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "glob",
+      "minimatch",
+      "brace-expansion"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "glob",
+      "minimatch"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "coveralls",
+      "minimist"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "coveralls",
+      "request",
+      "hawk"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "coveralls",
+      "request",
+      "hawk",
+      "cryptiles"
+    ],
+    [
+      "istanbul",
+      "mkdirp",
+      "minimist"
+    ],
+    [
+      "istanbul",
+      "glob",
+      "minimatch"
+    ],
+    [
+      "eslint",
+      "glob-parent"
+    ],
+    [
+      "eslint",
+      "minimatch"
+    ],
+    [
+      "eslint",
+      "semver"
+    ],
+    [
+      "eslint",
+      "minimatch",
+      "brace-expansion"
+    ],
+    [
+      "eslint",
+      "file-entry-cache",
+      "flat-cache",
+      "rimraf",
+      "glob",
+      "minimatch"
+    ],
+    [
+      "eslint",
+      "@humanwhocodes/config-array",
+      "minimatch"
+    ],
+    [
+      "eslint",
+      "@eslint/eslintrc",
+      "minimatch"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "coveralls",
+      "minimist"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "glob",
+      "minimatch"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "tap-mocha-reporter",
+      "glob",
+      "minimatch"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "mkdirp",
+      "minimist"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "yargs",
+      "y18n"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "test-exclude",
+      "read-pkg-up",
+      "read-pkg",
+      "normalize-package-data",
+      "semver"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "micromatch",
+      "parse-glob",
+      "glob-base",
+      "glob-parent"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "istanbul-lib-report",
+      "async"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "istanbul-lib-instrument",
+      "babel-types",
+      "lodash"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "istanbul-lib-instrument",
+      "babel-traverse",
+      "lodash"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "istanbul-lib-instrument",
+      "babel-template",
+      "lodash"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "istanbul-lib-instrument",
+      "babel-generator",
+      "lodash"
+    ],
+    [
+      "istanbul",
+      "async"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "istanbul-lib-report",
+      "async"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "istanbul-lib-instrument",
+      "babel-generator",
+      "lodash"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "istanbul-lib-instrument",
+      "babel-template",
+      "lodash"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "istanbul-lib-instrument",
+      "babel-traverse",
+      "lodash"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "istanbul-lib-instrument",
+      "babel-types",
+      "lodash"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "coveralls",
+      "request"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "coveralls",
+      "request"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "tap-mocha-reporter",
+      "debug",
+      "ms"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "istanbul-lib-instrument",
+      "babel-traverse",
+      "debug",
+      "ms"
+    ],
+    [
+      "eslint",
+      "debug",
+      "ms"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "tap-mocha-reporter",
+      "debug",
+      "ms"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "yargs",
+      "decamelize"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "micromatch",
+      "braces"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "micromatch",
+      "braces",
+      "expand-range",
+      "fill-range",
+      "randomatic"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "istanbul-lib-report",
+      "path-parse"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "istanbul-lib-report",
+      "path-parse"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "micromatch",
+      "braces"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "yargs",
+      "decamelize"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "micromatch",
+      "braces",
+      "expand-range",
+      "fill-range",
+      "randomatic"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "yargs-parser"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "yargs",
+      "yargs-parser"
+    ],
+    [
+      "nodeunit",
+      "tap",
+      "nyc",
+      "yargs-parser"
+    ]
+  ],
+  "dependencies": {
+    "cron-parser": {
+      "dependencyTypes": [
+        "lagging"
+      ],
+      "highestCvssScore": -1,
+      "intervals": 130
+    },
+    "eslint": {
+      "dependencyTypes": [
+        "development-only",
+        "lagging"
+      ],
+      "highestCvssScore": -1,
+      "intervals": 14
+    },
+    "istanbul": {
+      "dependencyTypes": [
+        "development-only",
+        "lagging"
+      ],
+      "highestCvssScore": -1,
+      "intervals": 50
+    },
+    "long-timeout": {
+      "dependencyTypes": [
+        "lagging"
+      ],
+      "highestCvssScore": -1,
+      "intervals": 95
+    },
+    "nodeunit": {
+      "dependencyTypes": [
+        "development-only",
+        "lagging"
+      ],
+      "highestCvssScore": -1,
+      "intervals": 235
+    },
+    "sinon": {
+      "dependencyTypes": [
+        "development-only",
+        "lagging"
+      ],
+      "highestCvssScore": -1,
+      "intervals": 10
+    },
+    "sorted-array-functions": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": 690
+    },
+    "diff": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "formatio": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "lolex": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "native-promise-only": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "path-to-regexp": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "samsam": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "text-encoding": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "type-detect": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "isarray": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "tap": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "bluebird": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "clean-yaml-object": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "color-support": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "coveralls": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "deeper": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "foreground-child": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "glob": {
+      "dependencyTypes": [],
+      "highestCvssScore": 7.5,
+      "intervals": -1
+    },
+    "isexe": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "js-yaml": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "nyc": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "only-shallow": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "opener": {
+      "dependencyTypes": [
+        "vulnerable"
+      ],
+      "highestCvssScore": 9.8,
+      "intervals": -1
+    },
+    "os-homedir": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "readable-stream": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "signal-exit": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "stack-utils": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "tap-mocha-reporter": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "tap-parser": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "tmatch": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "events-to-array": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "debug": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "escape-string-regexp": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "unicode-length": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "punycode": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "strip-ansi": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "ansi-regex": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "fs.realpath": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "inflight": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "inherits": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "minimatch": {
+      "dependencyTypes": [
+        "vulnerable"
+      ],
+      "highestCvssScore": 7.5,
+      "intervals": -1
+    },
+    "once": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "path-is-absolute": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "ms": {
+      "dependencyTypes": [
+        "vulnerable"
+      ],
+      "highestCvssScore": 5.3,
+      "intervals": -1
+    },
+    "core-util-is": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "process-nextick-args": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "safe-buffer": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "string_decoder": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "util-deprecate": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "arrify": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "caching-transform": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "convert-source-map": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "default-require-extensions": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "find-cache-dir": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "find-up": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "istanbul-lib-coverage": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "istanbul-lib-hook": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "istanbul-lib-instrument": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "istanbul-lib-report": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "istanbul-lib-source-maps": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "istanbul-reports": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "md5-hex": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "micromatch": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "mkdirp": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "pkg-up": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "resolve-from": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "rimraf": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "spawn-wrap": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "test-exclude": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "yargs-parser": {
+      "dependencyTypes": [
+        "vulnerable"
+      ],
+      "highestCvssScore": 4.6,
+      "intervals": -1
+    },
+    "yargs": {
+      "dependencyTypes": [],
+      "highestCvssScore": 4.6,
+      "intervals": -1
+    },
+    "cliui": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "decamelize": {
+      "dependencyTypes": [
+        "vulnerable"
+      ],
+      "highestCvssScore": 5,
+      "intervals": -1
+    },
+    "get-caller-file": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "lodash.assign": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "os-locale": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "read-pkg-up": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "require-directory": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "require-main-filename": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "set-blocking": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "string-width": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "which-module": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "window-size": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "y18n": {
+      "dependencyTypes": [
+        "vulnerable"
+      ],
+      "highestCvssScore": 7.5,
+      "intervals": -1
+    },
+    "code-point-at": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "is-fullwidth-code-point": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "number-is-nan": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "lcid": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "invert-kv": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "wrap-ansi": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "camelcase": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "read-pkg": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "load-json-file": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "normalize-package-data": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "path-type": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "graceful-fs": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "pify": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "pinkie-promise": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "hosted-git-info": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "is-builtin-module": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "semver": {
+      "dependencyTypes": [
+        "vulnerable"
+      ],
+      "highestCvssScore": 7.5,
+      "intervals": -1
+    },
+    "validate-npm-package-license": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "spdx-correct": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "spdx-expression-parse": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "spdx-exceptions": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "spdx-license-ids": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "builtin-modules": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "parse-json": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "strip-bom": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "error-ex": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "is-arrayish": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "lodash.keys": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "lodash.rest": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "which": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "minimist": {
+      "dependencyTypes": [
+        "vulnerable"
+      ],
+      "highestCvssScore": 7.5,
+      "intervals": -1
+    },
+    "arr-diff": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "array-unique": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "braces": {
+      "dependencyTypes": [
+        "vulnerable"
+      ],
+      "highestCvssScore": 5,
+      "intervals": -1
+    },
+    "expand-brackets": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "extglob": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "filename-regex": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "is-extglob": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "is-glob": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "kind-of": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "normalize-path": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "object.omit": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "parse-glob": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "regex-cache": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "is-equal-shallow": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "is-primitive": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "glob-base": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "is-dotfile": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "glob-parent": {
+      "dependencyTypes": [
+        "vulnerable"
+      ],
+      "highestCvssScore": 7.5,
+      "intervals": -1
+    },
+    "for-own": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "is-extendable": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "for-in": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "is-buffer": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "is-posix-bracket": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "expand-range": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "preserve": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "repeat-element": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "fill-range": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "is-number": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "isobject": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "randomatic": {
+      "dependencyTypes": [
+        "vulnerable"
+      ],
+      "highestCvssScore": 5,
+      "intervals": -1
+    },
+    "repeat-string": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "arr-flatten": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "md5-o-matic": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "handlebars": {
+      "dependencyTypes": [
+        "vulnerable"
+      ],
+      "highestCvssScore": 9.8,
+      "intervals": -1
+    },
+    "async": {
+      "dependencyTypes": [
+        "vulnerable"
+      ],
+      "highestCvssScore": 6.8,
+      "intervals": -1
+    },
+    "optimist": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "source-map": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "uglify-js": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "uglify-to-browserify": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "center-align": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "right-align": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "wordwrap": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "align-text": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "lazy-cache": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "longest": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "amdefine": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "path-parse": {
+      "dependencyTypes": [
+        "vulnerable"
+      ],
+      "highestCvssScore": 5,
+      "intervals": -1
+    },
+    "supports-color": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "has-flag": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "babel-generator": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "babel-template": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "babel-traverse": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "babel-types": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "babylon": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "babel-runtime": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "esutils": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "lodash": {
+      "dependencyTypes": [
+        "vulnerable"
+      ],
+      "highestCvssScore": 6.8,
+      "intervals": -1
+    },
+    "to-fast-properties": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "babel-code-frame": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "babel-messages": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "globals": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "invariant": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "loose-envify": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "js-tokens": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "chalk": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "ansi-styles": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "has-ansi": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "detect-indent": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "get-stdin": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "repeating": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "is-finite": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "core-js": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "regenerator-runtime": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "append-transform": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "wrappy": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "brace-expansion": {
+      "dependencyTypes": [
+        "vulnerable"
+      ],
+      "highestCvssScore": 5,
+      "intervals": -1
+    },
+    "balanced-match": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "concat-map": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "cross-spawn": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "lru-cache": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "pseudomap": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "yallist": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "path-exists": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "pinkie": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "commondir": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "pkg-dir": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "is-utf8": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "write-file-atomic": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "imurmurhash": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "slide": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "lcov-parse": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "log-driver": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "request": {
+      "dependencyTypes": [
+        "vulnerable"
+      ],
+      "highestCvssScore": 6.1,
+      "intervals": -1
+    },
+    "aws-sign2": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "aws4": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "caseless": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "combined-stream": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "extend": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "forever-agent": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "form-data": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "har-validator": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "hawk": {
+      "dependencyTypes": [
+        "vulnerable"
+      ],
+      "highestCvssScore": 7.5,
+      "intervals": -1
+    },
+    "http-signature": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "is-typedarray": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "isstream": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "json-stringify-safe": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "mime-types": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "oauth-sign": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "qs": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "stringstream": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "tough-cookie": {
+      "dependencyTypes": [
+        "vulnerable"
+      ],
+      "highestCvssScore": 9.8,
+      "intervals": -1
+    },
+    "tunnel-agent": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "uuid": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "mime-db": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "assert-plus": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "jsprim": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "sshpk": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "asn1": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "bcrypt-pbkdf": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "dashdash": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "ecc-jsbn": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "getpass": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "jsbn": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "safer-buffer": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "tweetnacl": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "extsprintf": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "json-schema": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "verror": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "boom": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "cryptiles": {
+      "dependencyTypes": [
+        "vulnerable"
+      ],
+      "highestCvssScore": 5,
+      "intervals": -1
+    },
+    "hoek": {
+      "dependencyTypes": [
+        "vulnerable"
+      ],
+      "highestCvssScore": 8.8,
+      "intervals": -1
+    },
+    "sntp": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "commander": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "is-my-json-valid": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "generate-function": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "generate-object-property": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "is-my-ip-valid": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "jsonpointer": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "xtend": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "is-property": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "asynckit": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "delayed-stream": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "argparse": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "esprima": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "abbrev": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "escodegen": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "nopt": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "resolve": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "neo-async": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "estraverse": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "optionator": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "deep-is": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "fast-levenshtein": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "levn": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "prelude-ls": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "type-check": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "word-wrap": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "@babel/code-frame": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "@eslint/eslintrc": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "@humanwhocodes/config-array": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "ajv": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "doctrine": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "enquirer": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "eslint-scope": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "eslint-utils": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "eslint-visitor-keys": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "espree": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "esquery": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "fast-deep-equal": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "file-entry-cache": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "functional-red-black-tree": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "ignore": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "import-fresh": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "json-stable-stringify-without-jsonify": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "lodash.merge": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "natural-compare": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "progress": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "regexpp": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "strip-json-comments": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "table": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "text-table": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "v8-compile-cache": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "lodash.truncate": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "slice-ansi": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "emoji-regex": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "astral-regex": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "json-schema-traverse": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "require-from-string": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "uri-js": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "@aashutoshrathi/word-wrap": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "sprintf-js": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "parent-module": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "callsites": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "type-fest": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "flat-cache": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "flatted": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "keyv": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "json-buffer": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "acorn-jsx": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "acorn": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "esrecurse": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "ansi-colors": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "path-key": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "shebang-command": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "shebang-regex": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "color-convert": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "color-name": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "fast-json-stable-stringify": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "@humanwhocodes/object-schema": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "@babel/highlight": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "@babel/helper-validator-identifier": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "is-nan": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "moment-timezone": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "moment": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "call-bind": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "define-properties": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "define-data-property": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "has-property-descriptors": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "object-keys": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "get-intrinsic": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "gopd": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "function-bind": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "set-function-length": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "has-proto": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "has-symbols": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    },
+    "hasown": {
+      "dependencyTypes": [],
+      "highestCvssScore": -1,
+      "intervals": -1
+    }
+  },
+  "vulnerabilityExposure": {
+    "opener": 2,
+    "minimatch": 10,
+    "ms": 4,
+    "yargs-parser": 3,
+    "decamelize": 3,
+    "y18n": 2,
+    "semver": 3,
+    "minimist": 8,
+    "braces": 2,
+    "glob-parent": 3,
+    "randomatic": 2,
+    "handlebars": 3,
+    "async": 5,
+    "path-parse": 2,
+    "lodash": 8,
+    "brace-expansion": 2,
+    "request": 2,
+    "hawk": 1,
+    "tough-cookie": 1,
+    "cryptiles": 1,
+    "hoek": 4
+  }
+}

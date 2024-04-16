@@ -1,0 +1,10 @@
+{
+  "laggingDependencies": {
+    "end-of-stream": "1.4.4",
+    "once": "1.4.0"
+  },
+  "releaseInterval": {
+    "end-of-stream": 23,
+    "once": 274
+  }
+}

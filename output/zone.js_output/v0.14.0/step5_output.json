@@ -1,0 +1,1148 @@
+[
+  {
+    "fileName": "angular-1.6-http-promise_templated.js",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/zone.js/v0.14.0/node_modules/google-closure-compiler/contrib/externs/angular-1.6-http-promise_templated.js",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2019-10768",
+        "severity": "HIGH",
+        "cvss": 5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2022-25869",
+        "severity": "MEDIUM",
+        "cvss": 6.1
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-7676",
+        "severity": "MEDIUM",
+        "cvss": 3.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2023-26116",
+        "severity": "MEDIUM",
+        "cvss": 5.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2023-26117",
+        "severity": "MEDIUM",
+        "cvss": 5.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2023-26118",
+        "severity": "MEDIUM",
+        "cvss": 5.3
+      },
+      {
+        "source": "RETIREJS",
+        "name": "DOS in $sanitize",
+        "severity": "medium",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Universal CSP bypass via add-on in Firefox",
+        "severity": "medium",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "XSS via JQLite DOM manipulation functions in AngularJS",
+        "severity": "medium",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "End-of-Life: Long term support for AngularJS has been discontinued",
+        "severity": "low",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "XSS in $sanitize in Safari/Firefox",
+        "severity": "low",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "XSS through SVG if enableSvg is set",
+        "severity": "low",
+        "cvss": null
+      }
+    ]
+  },
+  {
+    "fileName": "angular-1.6-mocks.js",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/zone.js/v0.14.0/node_modules/google-closure-compiler/contrib/externs/angular-1.6-mocks.js",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2019-10768",
+        "severity": "HIGH",
+        "cvss": 5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2022-25869",
+        "severity": "MEDIUM",
+        "cvss": 6.1
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-7676",
+        "severity": "MEDIUM",
+        "cvss": 3.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2023-26116",
+        "severity": "MEDIUM",
+        "cvss": 5.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2023-26117",
+        "severity": "MEDIUM",
+        "cvss": 5.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2023-26118",
+        "severity": "MEDIUM",
+        "cvss": 5.3
+      },
+      {
+        "source": "RETIREJS",
+        "name": "DOS in $sanitize",
+        "severity": "medium",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Universal CSP bypass via add-on in Firefox",
+        "severity": "medium",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "XSS via JQLite DOM manipulation functions in AngularJS",
+        "severity": "medium",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "End-of-Life: Long term support for AngularJS has been discontinued",
+        "severity": "low",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "XSS in $sanitize in Safari/Firefox",
+        "severity": "low",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "XSS through SVG if enableSvg is set",
+        "severity": "low",
+        "cvss": null
+      }
+    ]
+  },
+  {
+    "fileName": "angular-1.6-q_templated.js",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/zone.js/v0.14.0/node_modules/google-closure-compiler/contrib/externs/angular-1.6-q_templated.js",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2019-10768",
+        "severity": "HIGH",
+        "cvss": 5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2022-25869",
+        "severity": "MEDIUM",
+        "cvss": 6.1
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-7676",
+        "severity": "MEDIUM",
+        "cvss": 3.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2023-26116",
+        "severity": "MEDIUM",
+        "cvss": 5.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2023-26117",
+        "severity": "MEDIUM",
+        "cvss": 5.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2023-26118",
+        "severity": "MEDIUM",
+        "cvss": 5.3
+      },
+      {
+        "source": "RETIREJS",
+        "name": "DOS in $sanitize",
+        "severity": "medium",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Universal CSP bypass via add-on in Firefox",
+        "severity": "medium",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "XSS via JQLite DOM manipulation functions in AngularJS",
+        "severity": "medium",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "End-of-Life: Long term support for AngularJS has been discontinued",
+        "severity": "low",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "XSS in $sanitize in Safari/Firefox",
+        "severity": "low",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "XSS through SVG if enableSvg is set",
+        "severity": "low",
+        "cvss": null
+      }
+    ]
+  },
+  {
+    "fileName": "angular-1.6-resource.js",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/zone.js/v0.14.0/node_modules/google-closure-compiler/contrib/externs/angular-1.6-resource.js",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2019-10768",
+        "severity": "HIGH",
+        "cvss": 5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2022-25869",
+        "severity": "MEDIUM",
+        "cvss": 6.1
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-7676",
+        "severity": "MEDIUM",
+        "cvss": 3.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2023-26116",
+        "severity": "MEDIUM",
+        "cvss": 5.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2023-26117",
+        "severity": "MEDIUM",
+        "cvss": 5.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2023-26118",
+        "severity": "MEDIUM",
+        "cvss": 5.3
+      },
+      {
+        "source": "RETIREJS",
+        "name": "DOS in $sanitize",
+        "severity": "medium",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Universal CSP bypass via add-on in Firefox",
+        "severity": "medium",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "XSS via JQLite DOM manipulation functions in AngularJS",
+        "severity": "medium",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "End-of-Life: Long term support for AngularJS has been discontinued",
+        "severity": "low",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "XSS in $sanitize in Safari/Firefox",
+        "severity": "low",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "XSS through SVG if enableSvg is set",
+        "severity": "low",
+        "cvss": null
+      }
+    ]
+  },
+  {
+    "fileName": "angular-1.6-test.js",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/zone.js/v0.14.0/node_modules/google-closure-compiler/contrib/externs/angular-1.6-test.js",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2019-10768",
+        "severity": "HIGH",
+        "cvss": 5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2022-25869",
+        "severity": "MEDIUM",
+        "cvss": 6.1
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-7676",
+        "severity": "MEDIUM",
+        "cvss": 3.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2023-26116",
+        "severity": "MEDIUM",
+        "cvss": 5.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2023-26117",
+        "severity": "MEDIUM",
+        "cvss": 5.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2023-26118",
+        "severity": "MEDIUM",
+        "cvss": 5.3
+      },
+      {
+        "source": "RETIREJS",
+        "name": "DOS in $sanitize",
+        "severity": "medium",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Universal CSP bypass via add-on in Firefox",
+        "severity": "medium",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "XSS via JQLite DOM manipulation functions in AngularJS",
+        "severity": "medium",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "End-of-Life: Long term support for AngularJS has been discontinued",
+        "severity": "low",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "XSS in $sanitize in Safari/Firefox",
+        "severity": "low",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "XSS through SVG if enableSvg is set",
+        "severity": "low",
+        "cvss": null
+      }
+    ]
+  },
+  {
+    "fileName": "angular-1.6.js",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/zone.js/v0.14.0/node_modules/google-closure-compiler/contrib/externs/angular-1.6.js",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2019-10768",
+        "severity": "HIGH",
+        "cvss": 5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2022-25869",
+        "severity": "MEDIUM",
+        "cvss": 6.1
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-7676",
+        "severity": "MEDIUM",
+        "cvss": 3.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2023-26116",
+        "severity": "MEDIUM",
+        "cvss": 5.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2023-26117",
+        "severity": "MEDIUM",
+        "cvss": 5.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2023-26118",
+        "severity": "MEDIUM",
+        "cvss": 5.3
+      },
+      {
+        "source": "RETIREJS",
+        "name": "DOS in $sanitize",
+        "severity": "medium",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Universal CSP bypass via add-on in Firefox",
+        "severity": "medium",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "XSS via JQLite DOM manipulation functions in AngularJS",
+        "severity": "medium",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "End-of-Life: Long term support for AngularJS has been discontinued",
+        "severity": "low",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "XSS in $sanitize in Safari/Firefox",
+        "severity": "low",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "XSS through SVG if enableSvg is set",
+        "severity": "low",
+        "cvss": null
+      }
+    ]
+  },
+  {
+    "fileName": "compiler.jar (shaded: com.google.guava:guava:31.0.1-jre)",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/zone.js/v0.14.0/node_modules/google-closure-compiler-java/compiler.jar/META-INF/maven/com.google.guava/guava/pom.xml",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2023-2976",
+        "severity": "HIGH",
+        "cvss": 7.1
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-8908",
+        "severity": "LOW",
+        "cvss": 2.1
+      }
+    ]
+  },
+  {
+    "fileName": "growl:1.9.2",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/zone.js/v0.14.0/package-lock.json?mocha:2.5.3/growl:1.9.2",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2017-16042",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      }
+    ]
+  },
+  {
+    "fileName": "jquery-1.12_and_2.2.js",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/zone.js/v0.14.0/node_modules/google-closure-compiler/contrib/externs/jquery-1.12_and_2.2.js",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2012-6708",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-7656",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2011-4969",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "RETIREJS",
+        "name": "jQuery 1.x and 2.x are End-of-Life and no longer receiving security updates",
+        "severity": "low",
+        "cvss": null
+      }
+    ]
+  },
+  {
+    "fileName": "jquery-1.4.4.js",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/zone.js/v0.14.0/node_modules/google-closure-compiler/contrib/externs/jquery-1.4.4.js",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2012-6708",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2015-9251",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2019-11358",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-11022",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-11023",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-23064",
+        "severity": "MEDIUM",
+        "cvss": 6.1
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-7656",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2011-4969",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "RETIREJS",
+        "name": "jQuery 1.x and 2.x are End-of-Life and no longer receiving security updates",
+        "severity": "low",
+        "cvss": null
+      }
+    ]
+  },
+  {
+    "fileName": "jquery-1.5.js",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/zone.js/v0.14.0/node_modules/google-closure-compiler/contrib/externs/jquery-1.5.js",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2012-6708",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2015-9251",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2019-11358",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-11022",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-11023",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-23064",
+        "severity": "MEDIUM",
+        "cvss": 6.1
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-7656",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2011-4969",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "RETIREJS",
+        "name": "jQuery 1.x and 2.x are End-of-Life and no longer receiving security updates",
+        "severity": "low",
+        "cvss": null
+      }
+    ]
+  },
+  {
+    "fileName": "jquery-1.6.js",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/zone.js/v0.14.0/node_modules/google-closure-compiler/contrib/externs/jquery-1.6.js",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2012-6708",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2015-9251",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2019-11358",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-11022",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-11023",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-23064",
+        "severity": "MEDIUM",
+        "cvss": 6.1
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-7656",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2011-4969",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "RETIREJS",
+        "name": "jQuery 1.x and 2.x are End-of-Life and no longer receiving security updates",
+        "severity": "low",
+        "cvss": null
+      }
+    ]
+  },
+  {
+    "fileName": "jquery-1.7.js",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/zone.js/v0.14.0/node_modules/google-closure-compiler/contrib/externs/jquery-1.7.js",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2012-6708",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2015-9251",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2019-11358",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-11022",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-11023",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-23064",
+        "severity": "MEDIUM",
+        "cvss": 6.1
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-7656",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "RETIREJS",
+        "name": "jQuery 1.x and 2.x are End-of-Life and no longer receiving security updates",
+        "severity": "low",
+        "cvss": null
+      }
+    ]
+  },
+  {
+    "fileName": "jquery-1.8.js",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/zone.js/v0.14.0/node_modules/google-closure-compiler/contrib/externs/jquery-1.8.js",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2012-6708",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2015-9251",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2019-11358",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-11022",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-11023",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-23064",
+        "severity": "MEDIUM",
+        "cvss": 6.1
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-7656",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "RETIREJS",
+        "name": "jQuery 1.x and 2.x are End-of-Life and no longer receiving security updates",
+        "severity": "low",
+        "cvss": null
+      }
+    ]
+  },
+  {
+    "fileName": "jquery-1.9.1.js",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/zone.js/v0.14.0/node_modules/domino/test/fixture/jquery-1.9.1.js",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2015-9251",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2019-11358",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-11022",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-11023",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-23064",
+        "severity": "MEDIUM",
+        "cvss": 6.1
+      },
+      {
+        "source": "RETIREJS",
+        "name": "jQuery 1.x and 2.x are End-of-Life and no longer receiving security updates",
+        "severity": "low",
+        "cvss": null
+      }
+    ]
+  },
+  {
+    "fileName": "jquery-1.9.js",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/zone.js/v0.14.0/node_modules/google-closure-compiler/contrib/externs/jquery-1.9.js",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2015-9251",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2019-11358",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-11022",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-11023",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-23064",
+        "severity": "MEDIUM",
+        "cvss": 6.1
+      },
+      {
+        "source": "RETIREJS",
+        "name": "jQuery 1.x and 2.x are End-of-Life and no longer receiving security updates",
+        "severity": "low",
+        "cvss": null
+      }
+    ]
+  },
+  {
+    "fileName": "jquery-2.2.0.js",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/zone.js/v0.14.0/node_modules/domino/test/fixture/jquery-2.2.0.js",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2015-9251",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2019-11358",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-11022",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-11023",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-23064",
+        "severity": "MEDIUM",
+        "cvss": 6.1
+      },
+      {
+        "source": "RETIREJS",
+        "name": "jQuery 1.x and 2.x are End-of-Life and no longer receiving security updates",
+        "severity": "low",
+        "cvss": null
+      }
+    ]
+  },
+  {
+    "fileName": "jquery-3.0.js",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/zone.js/v0.14.0/node_modules/google-closure-compiler/contrib/externs/jquery-3.0.js",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2019-11358",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-11022",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-11023",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-23064",
+        "severity": "MEDIUM",
+        "cvss": 6.1
+      }
+    ]
+  },
+  {
+    "fileName": "jquery-3.1.js",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/zone.js/v0.14.0/node_modules/google-closure-compiler/contrib/externs/jquery-3.1.js",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2019-11358",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-11022",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-11023",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-23064",
+        "severity": "MEDIUM",
+        "cvss": 6.1
+      }
+    ]
+  },
+  {
+    "fileName": "jquery-3.2.js",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/zone.js/v0.14.0/node_modules/google-closure-compiler/contrib/externs/jquery-3.2.js",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2019-11358",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-11022",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-11023",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-23064",
+        "severity": "MEDIUM",
+        "cvss": 6.1
+      }
+    ]
+  },
+  {
+    "fileName": "jquery-3.3.js",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/zone.js/v0.14.0/node_modules/google-closure-compiler/contrib/externs/jquery-3.3.js",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2019-11358",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-11022",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-11023",
+        "severity": "MEDIUM",
+        "cvss": 4.3
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-23064",
+        "severity": "MEDIUM",
+        "cvss": 6.1
+      }
+    ]
+  },
+  {
+    "fileName": "minimatch:0.3.0",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/zone.js/v0.14.0/package-lock.json?/minimatch:0.3.0",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2016-10540",
+        "severity": "HIGH",
+        "cvss": 5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2022-3517",
+        "severity": "HIGH",
+        "cvss": 7.5
+      }
+    ]
+  },
+  {
+    "fileName": "minimist:0.0.8",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/zone.js/v0.14.0/package-lock.json?/minimist:0.0.8",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2021-44906",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-7598",
+        "severity": "MEDIUM",
+        "cvss": 6.8
+      }
+    ]
+  },
+  {
+    "fileName": "ms:0.7.1",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/zone.js/v0.14.0/package-lock.json?/ms:0.7.1",
+    "vulnerabilities": [
+      {
+        "source": "OSSINDEX",
+        "name": "CVE-2017-20162",
+        "severity": "MEDIUM",
+        "cvss": 5.3
+      }
+    ]
+  },
+  {
+    "fileName": "underscore-min.js",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/zone.js/v0.14.0/node_modules/underscore/underscore-min.js",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2021-23358",
+        "severity": "HIGH",
+        "cvss": 6.5
+      }
+    ]
+  },
+  {
+    "fileName": "underscore.js",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/zone.js/v0.14.0/node_modules/underscore/underscore.js",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2021-23358",
+        "severity": "HIGH",
+        "cvss": 6.5
+      }
+    ]
+  },
+  {
+    "fileName": "underscore:1.8.3",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/zone.js/v0.14.0/package-lock.json?/underscore:1.8.3",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2021-23358",
+        "severity": "HIGH",
+        "cvss": 6.5
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "fileName": "babel-cli:6.26.0",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/columnify/v1.6.0/package-lock.json?/babel-cli:6.26.0",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2017-16060",
+        "severity": "HIGH",
+        "cvss": 5
+      }
+    ]
+  },
+  {
+    "fileName": "babel-traverse:6.26.0",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/columnify/v1.6.0/package-lock.json?/babel-traverse:6.26.0",
+    "vulnerabilities": [
+      {
+        "source": "OSSINDEX",
+        "name": "CVE-2023-45133",
+        "severity": "HIGH",
+        "cvss": 8.8
+      }
+    ]
+  },
+  {
+    "fileName": "braces:1.8.5",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/columnify/v1.6.0/package-lock.json?micromatch:2.3.11/braces:^1.8.2",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2018-1109",
+        "severity": "MEDIUM",
+        "cvss": 5
+      }
+    ]
+  },
+  {
+    "fileName": "glob-parent:2.0.0",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/columnify/v1.6.0/package-lock.json?/glob-parent:2.0.0",
+    "vulnerabilities": [
+      {
+        "source": "OSSINDEX",
+        "name": "CVE-2020-28469",
+        "severity": "HIGH",
+        "cvss": 7.5
+      }
+    ]
+  },
+  {
+    "fileName": "json5:0.5.1",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/columnify/v1.6.0/package-lock.json?/json5:0.5.1",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2022-46175",
+        "severity": "HIGH",
+        "cvss": 8.8
+      }
+    ]
+  },
+  {
+    "fileName": "trim:0.0.1",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/columnify/v1.6.0/package-lock.json?/trim:0.0.1",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2020-7753",
+        "severity": "HIGH",
+        "cvss": 5
+      }
+    ]
+  }
+]

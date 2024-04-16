@@ -1,0 +1,22 @@
+{
+  "laggingDependencies": {
+    "array-back": "4.0.2",
+    "chalk": "2.4.2",
+    "coveralls": "3.1.1",
+    "jsdoc-to-markdown": "6.0.1",
+    "nyc": "15.1.0",
+    "table-layout": "1.0.2",
+    "test-runner": "0.6.3",
+    "typical": "5.2.0"
+  },
+  "releaseInterval": {
+    "array-back": 29,
+    "chalk": 172,
+    "coveralls": 344,
+    "jsdoc-to-markdown": 267,
+    "nyc": 65,
+    "table-layout": 104,
+    "test-runner": 91,
+    "typical": 24
+  }
+}

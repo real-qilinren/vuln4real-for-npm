@@ -1,0 +1,26 @@
+[
+  {
+    "fileName": "minimatch:3.0.4",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/fancy-log/v2.0.0/package-lock.json?test-exclude:6.0.0/minimatch:^3.0.4",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2022-3517",
+        "severity": "HIGH",
+        "cvss": 7.5
+      }
+    ]
+  },
+  {
+    "fileName": "nanoid:3.1.20",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/fancy-log/v2.0.0/package-lock.json?/nanoid:3.1.20",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2021-23566",
+        "severity": "MEDIUM",
+        "cvss": 2.1
+      }
+    ]
+  }
+]

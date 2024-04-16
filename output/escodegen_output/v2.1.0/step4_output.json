@@ -1,0 +1,34 @@
+{
+  "laggingDependencies": {
+    "acorn": "8.11.2",
+    "bluebird": "3.7.2",
+    "bower-registry-client": "1.0.0",
+    "chai-exclude": "2.1.0",
+    "commonjs-everywhere": "0.9.7",
+    "esprima": "4.0.1",
+    "gulp-eslint": "6.0.0",
+    "gulp-mocha": "7.0.2",
+    "gulp": "4.0.2",
+    "minimist": "1.2.8",
+    "semver": "7.5.4",
+    "source-map": "0.6.1"
+  },
+  "releaseInterval": {
+    "acorn": 4,
+    "bluebird": 39,
+    "bower-registry-client": 150,
+    "chai-exclude": 240,
+    "chai": 27,
+    "commonjs-everywhere": 13,
+    "esprima": 346,
+    "estraverse": 378,
+    "esutils": 1280,
+    "gulp-eslint": 315,
+    "gulp-mocha": 180,
+    "gulp": 112,
+    "minimist": 17,
+    "optionator": 191,
+    "semver": 1,
+    "source-map": 1070
+  }
+}

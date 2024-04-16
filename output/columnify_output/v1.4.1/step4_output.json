@@ -1,0 +1,18 @@
+{
+  "laggingDependencies": {
+    "6to5": "3.6.5",
+    "chalk": "0.5.1",
+    "strip-ansi": "2.0.1",
+    "tap-spec": "2.2.2",
+    "tape": "3.6.1",
+    "wcwidth": "1.0.1"
+  },
+  "releaseInterval": {
+    "6to5": 0,
+    "chalk": 172,
+    "strip-ansi": 500,
+    "tap-spec": 156,
+    "tape": 11,
+    "wcwidth": 529
+  }
+}

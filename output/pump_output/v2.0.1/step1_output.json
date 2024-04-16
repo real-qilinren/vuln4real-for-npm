@@ -1,0 +1,28 @@
+{
+  "version": "2.0.1",
+  "name": "pump",
+  "dependencies": {
+    "end-of-stream": {
+      "version": "1.4.4",
+      "resolved": "https://registry.npmjs.org/end-of-stream/-/end-of-stream-1.4.4.tgz",
+      "overridden": false,
+      "dependencies": {
+        "once": {
+          "version": "1.4.0"
+        }
+      }
+    },
+    "once": {
+      "version": "1.4.0",
+      "resolved": "https://registry.npmjs.org/once/-/once-1.4.0.tgz",
+      "overridden": false,
+      "dependencies": {
+        "wrappy": {
+          "version": "1.0.2",
+          "resolved": "https://registry.npmjs.org/wrappy/-/wrappy-1.0.2.tgz",
+          "overridden": false
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "laggingDependencies": {
+    "core-js": "2.6.12",
+    "regenerator-runtime": "0.11.1"
+  },
+  "releaseInterval": {
+    "core-js": 12,
+    "regenerator-runtime": 231
+  }
+}

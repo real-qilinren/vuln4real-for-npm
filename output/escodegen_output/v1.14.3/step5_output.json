@@ -1,0 +1,218 @@
+[
+  {
+    "fileName": "ajv:4.11.8",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/escodegen/v1.14.3/package-lock.json?/ajv:4.11.8",
+    "vulnerabilities": [
+      {
+        "source": "OSSINDEX",
+        "name": "CVE-2020-15366",
+        "severity": "MEDIUM",
+        "cvss": 5.6
+      }
+    ]
+  },
+  {
+    "fileName": "async:0.2.10",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/escodegen/v1.14.3/package-lock.json?bower-registry-client:1.0.0/async:^0.2.8",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2021-43138",
+        "severity": "HIGH",
+        "cvss": 6.8
+      }
+    ]
+  },
+  {
+    "fileName": "debug:2.6.8",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/escodegen/v1.14.3/package-lock.json?snapdragon:0.8.2/debug:^2.2.0",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2017-20165",
+        "severity": "HIGH",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2017-16137",
+        "severity": "MEDIUM",
+        "cvss": 5
+      }
+    ]
+  },
+  {
+    "fileName": "growl:1.9.2",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/escodegen/v1.14.3/package-lock.json?mocha:3.5.3/growl:1.9.2",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2017-16042",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      }
+    ]
+  },
+  {
+    "fileName": "lodash.template:3.6.2",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/escodegen/v1.14.3/package-lock.json?/lodash.template:3.6.2",
+    "vulnerabilities": [
+      {
+        "source": "OSSINDEX",
+        "name": "CVE-2021-23337",
+        "severity": "HIGH",
+        "cvss": 7.2
+      }
+    ]
+  },
+  {
+    "fileName": "lodash:1.0.2",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/escodegen/v1.14.3/package-lock.json?/lodash:1.0.2",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2019-10744",
+        "severity": "CRITICAL",
+        "cvss": 6.4
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-8203",
+        "severity": "HIGH",
+        "cvss": 5.8
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2021-23337",
+        "severity": "HIGH",
+        "cvss": 6.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2018-3721",
+        "severity": "MEDIUM",
+        "cvss": 4
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2019-1010266",
+        "severity": "MEDIUM",
+        "cvss": 4
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2018-16487",
+        "severity": "MEDIUM",
+        "cvss": 6.8
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-28500",
+        "severity": "MEDIUM",
+        "cvss": 5
+      }
+    ]
+  },
+  {
+    "fileName": "minimatch:0.2.14",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/escodegen/v1.14.3/package-lock.json?/minimatch:0.2.14",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2016-10540",
+        "severity": "HIGH",
+        "cvss": 5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2022-3517",
+        "severity": "HIGH",
+        "cvss": 7.5
+      }
+    ]
+  },
+  {
+    "fileName": "minimatch:2.0.10",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/escodegen/v1.14.3/package-lock.json?/minimatch:2.0.10",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2016-10540",
+        "severity": "HIGH",
+        "cvss": 5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2022-3517",
+        "severity": "HIGH",
+        "cvss": 7.5
+      }
+    ]
+  },
+  {
+    "fileName": "minimist:0.0.10",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/escodegen/v1.14.3/package-lock.json?/minimist:0.0.10",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2021-44906",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-7598",
+        "severity": "MEDIUM",
+        "cvss": 6.8
+      }
+    ]
+  },
+  {
+    "fileName": "request:2.88.2",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/escodegen/v1.14.3/package-lock.json?/request:2.88.2",
+    "vulnerabilities": [
+      {
+        "source": "OSSINDEX",
+        "name": "CVE-2023-28155",
+        "severity": "MEDIUM",
+        "cvss": 6.1
+      }
+    ]
+  },
+  {
+    "fileName": "semver:4.3.6",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/escodegen/v1.14.3/package-lock.json?/semver:4.3.6",
+    "vulnerabilities": [
+      {
+        "source": "OSSINDEX",
+        "name": "CVE-2022-25883",
+        "severity": "HIGH",
+        "cvss": 7.5
+      }
+    ]
+  },
+  {
+    "fileName": "shelljs:0.7.8",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/escodegen/v1.14.3/package-lock.json?/shelljs:0.7.8",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2022-0144",
+        "severity": "HIGH",
+        "cvss": 3.6
+      }
+    ]
+  },
+  {
+    "fileName": "tough-cookie:2.5.0",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/escodegen/v1.14.3/package-lock.json?/tough-cookie:2.5.0",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2023-26136",
+        "severity": "CRITICAL",
+        "cvss": 9.8
+      }
+    ]
+  }
+]

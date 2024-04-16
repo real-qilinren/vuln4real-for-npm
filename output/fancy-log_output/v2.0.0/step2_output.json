@@ -1,0 +1,10 @@
+{
+  "eslint": "^7.32.0",
+  "eslint-config-gulp": "^5.0.1",
+  "eslint-plugin-node": "^11.1.0",
+  "expect": "^27.4.2",
+  "mocha": "^8.4.0",
+  "nyc": "^15.1.0",
+  "parse-node-version": "^2.0.0",
+  "sinon": "^12.0.1"
+}

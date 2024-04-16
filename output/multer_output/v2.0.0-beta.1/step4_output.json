@@ -1,0 +1,38 @@
+{
+  "laggingDependencies": {
+    "assert-rejects": "1.0.0",
+    "busboy": "0.3.1",
+    "express": "4.18.2",
+    "form-data": "3.0.1",
+    "fs-temp": "1.2.1",
+    "get-stream": "5.2.0",
+    "hasha": "5.2.2",
+    "mocha": "6.2.3",
+    "pify": "4.0.1",
+    "pump": "3.0.0",
+    "recursive-nullify": "1.0.0",
+    "standard": "12.0.1",
+    "stream-file-type": "0.4.0",
+    "testdata-w3c-json-form": "1.0.0",
+    "type-is": "1.6.18"
+  },
+  "releaseInterval": {
+    "append-field": 1635,
+    "assert-rejects": 481,
+    "busboy": 39,
+    "express": 133,
+    "form-data": 77,
+    "fs-temp": 157,
+    "get-stream": 15,
+    "hasha": 51,
+    "mocha": 74,
+    "on-finished": 397,
+    "pify": 222,
+    "pump": 19,
+    "recursive-nullify": 0,
+    "standard": 336,
+    "stream-file-type": 85,
+    "testdata-w3c-json-form": 603,
+    "type-is": 81
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "laggingDependencies": {
+    "@rollup/plugin-commonjs": "24.1.0",
+    "@rollup/plugin-node-resolve": "15.2.3",
+    "array-back": "6.2.2",
+    "chalk-template": "0.4.0",
+    "rollup": "3.29.4",
+    "table-layout": "3.0.2",
+    "test-runner": "0.10.1",
+    "typical": "7.1.1"
+  },
+  "releaseInterval": {
+    "@rollup/plugin-commonjs": 4,
+    "@rollup/plugin-node-resolve": 11,
+    "array-back": 29,
+    "chalk-template": 76,
+    "jsdoc-to-markdown": 267,
+    "rollup": 3,
+    "table-layout": 104,
+    "test-runner": 91,
+    "typical": 24
+  }
+}

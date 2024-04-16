@@ -1,0 +1,10 @@
+{
+  "basic-auth-connect": "^1.0.0",
+  "body-parser": "^1.12.4",
+  "eslint": "^0.21.2",
+  "express": "^4.12.4",
+  "istanbul": "^0.4.5",
+  "mocha": "^2.2.5",
+  "should": "^6.0.3",
+  "supertest": "^1.0.1"
+}

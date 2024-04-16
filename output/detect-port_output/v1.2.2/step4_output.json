@@ -1,0 +1,24 @@
+{
+  "laggingDependencies": {
+    "address": "1.2.2",
+    "command-line-test": "1.0.10",
+    "debug": "2.6.8",
+    "egg-bin": "1.11.1",
+    "egg-ci": "1.19.1",
+    "eslint-config-egg": "3.2.0",
+    "eslint": "3.19.0",
+    "mm": "2.5.0",
+    "pedding": "1.1.0"
+  },
+  "releaseInterval": {
+    "address": 50,
+    "command-line-test": 205,
+    "debug": 145,
+    "egg-bin": 1,
+    "egg-ci": 119,
+    "eslint-config-egg": 6,
+    "eslint": 14,
+    "mm": 4,
+    "pedding": 749
+  }
+}

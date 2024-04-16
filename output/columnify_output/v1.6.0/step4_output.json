@@ -1,0 +1,19 @@
+{
+  "laggingDependencies": {
+    "babel-cli": "6.26.0",
+    "babel-preset-es2015": "6.24.1",
+    "chalk": "1.1.3",
+    "tap-spec": "5.0.0",
+    "tape": "4.17.0",
+    "wcwidth": "1.0.1"
+  },
+  "releaseInterval": {
+    "babel-cli": 17,
+    "babel-preset-es2015": 17,
+    "chalk": 172,
+    "strip-ansi": 500,
+    "tap-spec": 156,
+    "tape": 11,
+    "wcwidth": 529
+  }
+}

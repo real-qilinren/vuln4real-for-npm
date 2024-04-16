@@ -1,0 +1,194 @@
+[
+  {
+    "fileName": "express:4.16.4",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/gulp-clean-css/v4.1.1/package-lock.json?/express:4.16.4",
+    "vulnerabilities": [
+      {
+        "source": "OSSINDEX",
+        "name": "CVE-2022-24999",
+        "severity": "HIGH",
+        "cvss": 7.5
+      }
+    ]
+  },
+  {
+    "fileName": "flat:4.1.1",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/gulp-clean-css/v4.1.1/package-lock.json?yargs-unparser:1.5.0/flat:^4.1.0",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2020-36632",
+        "severity": "CRITICAL",
+        "cvss": 9.8
+      }
+    ]
+  },
+  {
+    "fileName": "glob-parent:3.1.0",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/gulp-clean-css/v4.1.1/package-lock.json?glob-stream:6.1.0/glob-parent:^3.1.0",
+    "vulnerabilities": [
+      {
+        "source": "OSSINDEX",
+        "name": "CVE-2020-28469",
+        "severity": "HIGH",
+        "cvss": 7.5
+      }
+    ]
+  },
+  {
+    "fileName": "minimatch:3.0.4",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/gulp-clean-css/v4.1.1/package-lock.json?test-exclude:5.2.3/minimatch:^3.0.4",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2022-3517",
+        "severity": "HIGH",
+        "cvss": 7.5
+      }
+    ]
+  },
+  {
+    "fileName": "minimist:0.0.8",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/gulp-clean-css/v4.1.1/package-lock.json?/minimist:0.0.8",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2021-44906",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-7598",
+        "severity": "MEDIUM",
+        "cvss": 6.8
+      }
+    ]
+  },
+  {
+    "fileName": "node-sass:4.14.1",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/gulp-clean-css/v4.1.1/package-lock.json?/node-sass:4.14.1",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2020-24025",
+        "severity": "MEDIUM",
+        "cvss": 5
+      }
+    ]
+  },
+  {
+    "fileName": "qs:6.5.2",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/gulp-clean-css/v4.1.1/package-lock.json?request:2.88.2/qs:~6.5.2",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2022-24999",
+        "severity": "HIGH",
+        "cvss": 7.5
+      }
+    ]
+  },
+  {
+    "fileName": "request:2.88.2",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/gulp-clean-css/v4.1.1/package-lock.json?/request:2.88.2",
+    "vulnerabilities": [
+      {
+        "source": "OSSINDEX",
+        "name": "CVE-2023-28155",
+        "severity": "MEDIUM",
+        "cvss": 6.1
+      }
+    ]
+  },
+  {
+    "fileName": "scss-tokenizer:0.2.3",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/gulp-clean-css/v4.1.1/package-lock.json?/scss-tokenizer:0.2.3",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2022-25758",
+        "severity": "HIGH",
+        "cvss": 5
+      }
+    ]
+  },
+  {
+    "fileName": "semver:5.3.0",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/gulp-clean-css/v4.1.1/package-lock.json?/semver:5.3.0",
+    "vulnerabilities": [
+      {
+        "source": "OSSINDEX",
+        "name": "CVE-2022-25883",
+        "severity": "HIGH",
+        "cvss": 7.5
+      }
+    ]
+  },
+  {
+    "fileName": "tar:2.2.2",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/gulp-clean-css/v4.1.1/package-lock.json?/tar:2.2.2",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2021-32803",
+        "severity": "HIGH",
+        "cvss": 5.8
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2021-32804",
+        "severity": "HIGH",
+        "cvss": 5.8
+      }
+    ]
+  },
+  {
+    "fileName": "tough-cookie:2.5.0",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/gulp-clean-css/v4.1.1/package-lock.json?/tough-cookie:2.5.0",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2023-26136",
+        "severity": "CRITICAL",
+        "cvss": 9.8
+      }
+    ]
+  },
+  {
+    "fileName": "trim-newlines:1.0.0",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/gulp-clean-css/v4.1.1/package-lock.json?/trim-newlines:1.0.0",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2021-33623",
+        "severity": "HIGH",
+        "cvss": 5
+      }
+    ]
+  },
+  {
+    "fileName": "yargs-parser:11.1.1",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/gulp-clean-css/v4.1.1/package-lock.json?/yargs-parser:11.1.1",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2020-7608",
+        "severity": "MEDIUM",
+        "cvss": 4.6
+      }
+    ]
+  },
+  {
+    "fileName": "yargs-parser:13.0.0",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/gulp-clean-css/v4.1.1/package-lock.json?/yargs-parser:13.0.0",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2020-7608",
+        "severity": "MEDIUM",
+        "cvss": 4.6
+      }
+    ]
+  }
+]

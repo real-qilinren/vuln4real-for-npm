@@ -1,0 +1,23 @@
+{
+  "laggingDependencies": {
+    "color-support": "1.1.3",
+    "eslint-config-gulp": "5.0.1",
+    "eslint-plugin-node": "11.1.0",
+    "eslint": "7.32.0",
+    "expect": "27.5.1",
+    "mocha": "8.4.0",
+    "nyc": "15.1.0",
+    "sinon": "12.0.1"
+  },
+  "releaseInterval": {
+    "color-support": 206,
+    "eslint-config-gulp": 224,
+    "eslint-plugin-node": 93,
+    "eslint": 14,
+    "expect": 42,
+    "mocha": 74,
+    "nyc": 65,
+    "parse-node-version": 832,
+    "sinon": 10
+  }
+}

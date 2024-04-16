@@ -1,0 +1,62 @@
+[
+  {
+    "fileName": "busboy:0.3.1",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/multer/v2.0.0-rc.2/package-lock.json?/busboy:0.3.1",
+    "vulnerabilities": [
+      {
+        "source": "OSSINDEX",
+        "name": "CVE-2022-24434",
+        "severity": "HIGH",
+        "cvss": 7.5
+      }
+    ]
+  },
+  {
+    "fileName": "dicer:0.3.0",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/multer/v2.0.0-rc.2/package-lock.json?/dicer:0.3.0",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2022-24434",
+        "severity": "HIGH",
+        "cvss": 5
+      }
+    ]
+  },
+  {
+    "fileName": "file-type:12.4.2",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/multer/v2.0.0-rc.2/package-lock.json?stream-file-type:0.4.0/file-type:^12.0.0",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2022-36313",
+        "severity": "MEDIUM",
+        "cvss": 5.5
+      }
+    ]
+  },
+  {
+    "fileName": "flat:4.1.1",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/multer/v2.0.0-rc.2/package-lock.json?yargs-unparser:1.6.0/flat:^4.1.0",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2020-36632",
+        "severity": "CRITICAL",
+        "cvss": 9.8
+      }
+    ]
+  },
+  {
+    "fileName": "minimatch:3.0.4",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/multer/v2.0.0-rc.2/package-lock.json?glob:7.2.3/minimatch:^3.1.1",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2022-3517",
+        "severity": "HIGH",
+        "cvss": 7.5
+      }
+    ]
+  }
+]

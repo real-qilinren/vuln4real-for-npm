@@ -1,0 +1,104 @@
+[
+  {
+    "fileName": "async:0.2.10",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/escodegen/v2.1.0/package-lock.json?bower-registry-client:1.0.0/async:^0.2.8",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2021-43138",
+        "severity": "HIGH",
+        "cvss": 6.8
+      }
+    ]
+  },
+  {
+    "fileName": "flat:4.1.1",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/escodegen/v2.1.0/package-lock.json?yargs-unparser:1.6.0/flat:^4.1.0",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2020-36632",
+        "severity": "CRITICAL",
+        "cvss": 9.8
+      }
+    ]
+  },
+  {
+    "fileName": "glob-parent:3.1.0",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/escodegen/v2.1.0/package-lock.json?glob-stream:6.1.0/glob-parent:^3.1.0",
+    "vulnerabilities": [
+      {
+        "source": "OSSINDEX",
+        "name": "CVE-2020-28469",
+        "severity": "HIGH",
+        "cvss": 7.5
+      }
+    ]
+  },
+  {
+    "fileName": "minimatch:3.0.4",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/escodegen/v2.1.0/package-lock.json?mocha:6.2.3/minimatch:3.0.4",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2022-3517",
+        "severity": "HIGH",
+        "cvss": 7.5
+      }
+    ]
+  },
+  {
+    "fileName": "minimist:0.0.10",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/escodegen/v2.1.0/package-lock.json?/minimist:0.0.10",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2021-44906",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      },
+      {
+        "source": "NPM",
+        "name": "GHSA-xvch-5gv4-984h",
+        "severity": "critical",
+        "cvss": 9.8
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-7598",
+        "severity": "MEDIUM",
+        "cvss": 6.8
+      },
+      {
+        "source": "NPM",
+        "name": "GHSA-vh95-rmgr-6w4m",
+        "severity": "moderate",
+        "cvss": 5.6
+      }
+    ]
+  },
+  {
+    "fileName": "request:2.88.2",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/escodegen/v2.1.0/package-lock.json?/request:2.88.2",
+    "vulnerabilities": [
+      {
+        "source": "OSSINDEX",
+        "name": "CVE-2023-28155",
+        "severity": "MEDIUM",
+        "cvss": 6.1
+      }
+    ]
+  },
+  {
+    "fileName": "tough-cookie:2.5.0",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/escodegen/v2.1.0/package-lock.json?/tough-cookie:2.5.0",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2023-26136",
+        "severity": "CRITICAL",
+        "cvss": 9.8
+      }
+    ]
+  }
+]

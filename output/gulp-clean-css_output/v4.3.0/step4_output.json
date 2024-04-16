@@ -1,0 +1,39 @@
+{
+  "laggingDependencies": {
+    "chai-string": "1.5.0",
+    "chai": "4.2.0",
+    "clean-css": "4.2.3",
+    "coveralls": "3.0.9",
+    "express": "4.17.1",
+    "gulp-concat": "2.6.1",
+    "gulp-rename": "2.0.0",
+    "gulp-sass": "4.0.2",
+    "gulp-sourcemaps": "2.6.5",
+    "gulp": "4.0.2",
+    "mocha": "7.1.0",
+    "nyc": "15.0.0",
+    "plugin-error": "1.0.1",
+    "through2": "3.0.1",
+    "vinyl-sourcemaps-apply": "0.2.1",
+    "vinyl": "2.2.0"
+  },
+  "releaseInterval": {
+    "chai-string": 399,
+    "chai": 27,
+    "clean-css": 171,
+    "coveralls": 344,
+    "express": 133,
+    "fancy-log": 967,
+    "gulp-concat": 427,
+    "gulp-rename": 414,
+    "gulp-sass": 169,
+    "gulp-sourcemaps": 568,
+    "gulp": 112,
+    "mocha": 74,
+    "nyc": 65,
+    "plugin-error": 392,
+    "through2": 5,
+    "vinyl-sourcemaps-apply": 132,
+    "vinyl": 733
+  }
+}

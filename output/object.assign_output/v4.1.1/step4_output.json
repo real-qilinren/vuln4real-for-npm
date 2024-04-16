@@ -1,0 +1,32 @@
+{
+  "laggingDependencies": {
+    "@es-shims/api": "2.4.2",
+    "@ljharb/eslint-config": "17.6.0",
+    "aud": "1.1.5",
+    "browserify": "16.5.2",
+    "eslint": "7.32.0",
+    "is": "3.3.0",
+    "object-keys": "1.1.1",
+    "safe-publish-latest": "1.1.5",
+    "ses": "0.10.4"
+  },
+  "releaseInterval": {
+    "@es-shims/api": 13,
+    "@ljharb/eslint-config": 159,
+    "aud": 171,
+    "browserify": 82,
+    "covert": 1105,
+    "define-properties": 269,
+    "es-abstract": 39,
+    "eslint": 14,
+    "for-each": 1300,
+    "functions-have-names": 449,
+    "has-symbols": 406,
+    "has": 1594,
+    "is": 558,
+    "object-keys": 105,
+    "safe-publish-latest": 119,
+    "ses": 28,
+    "tape": 11
+  }
+}

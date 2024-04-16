@@ -1,0 +1,50 @@
+[
+  {
+    "fileName": "minimatch:0.3.0",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/columnify/v1.3.2/package-lock.json?/minimatch:0.3.0",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2016-10540",
+        "severity": "HIGH",
+        "cvss": 5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2022-3517",
+        "severity": "HIGH",
+        "cvss": 7.5
+      }
+    ]
+  },
+  {
+    "fileName": "minimist:0.2.4",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/columnify/v1.3.2/package-lock.json?/minimist:0.2.4",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2021-44906",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-7598",
+        "severity": "MEDIUM",
+        "cvss": 6.8
+      }
+    ]
+  },
+  {
+    "fileName": "trim-newlines:1.0.0",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/columnify/v1.3.2/package-lock.json?/trim-newlines:1.0.0",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2021-33623",
+        "severity": "HIGH",
+        "cvss": 5
+      }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "fileName": "postcss:7.0.39",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/css-loader/v6.5.1/package-lock.json?/postcss:7.0.39",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2023-44270",
+        "severity": "MEDIUM",
+        "cvss": 5.3
+      },
+      {
+        "source": "NPM",
+        "name": "GHSA-7fh5-64p2-3v2j",
+        "severity": "moderate",
+        "cvss": 5.3
+      }
+    ]
+  }
+]

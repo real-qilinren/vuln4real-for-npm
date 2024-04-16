@@ -1,0 +1,20 @@
+{
+  "laggingDependencies": {
+    "bluebird": "3.7.2",
+    "chai": "4.1.2",
+    "concat-stream": "2.0.0",
+    "docker-modem": "2.1.4",
+    "memorystream": "0.3.1",
+    "mocha": "5.2.0",
+    "tar-fs": "2.0.1"
+  },
+  "releaseInterval": {
+    "bluebird": 39,
+    "chai": 27,
+    "concat-stream": 224,
+    "docker-modem": 14,
+    "memorystream": 201,
+    "mocha": 74,
+    "tar-fs": 11
+  }
+}

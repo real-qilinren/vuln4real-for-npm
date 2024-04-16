@@ -1,0 +1,20 @@
+{
+  "laggingDependencies": {
+    "airtap": "4.0.4",
+    "cron-parser": "3.5.0",
+    "eslint": "7.32.0",
+    "long-timeout": "0.1.1",
+    "nyc": "15.1.0",
+    "sinon": "9.2.4"
+  },
+  "releaseInterval": {
+    "airtap": 218,
+    "cron-parser": 130,
+    "eslint": 14,
+    "long-timeout": 95,
+    "nyc": 65,
+    "sinon": 10,
+    "sorted-array-functions": 690,
+    "tape": 11
+  }
+}

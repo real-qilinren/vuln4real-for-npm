@@ -1,0 +1,16 @@
+{
+  "version": "7.0.0-alpha.19",
+  "name": "babel-polyfill",
+  "dependencies": {
+    "core-js": {
+      "version": "2.6.12",
+      "resolved": "https://registry.npmjs.org/core-js/-/core-js-2.6.12.tgz",
+      "overridden": false
+    },
+    "regenerator-runtime": {
+      "version": "0.10.5",
+      "resolved": "https://registry.npmjs.org/regenerator-runtime/-/regenerator-runtime-0.10.5.tgz",
+      "overridden": false
+    }
+  }
+}

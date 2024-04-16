@@ -1,0 +1,146 @@
+[
+  {
+    "fileName": "ajv:4.11.8",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/fancy-log/v1.3.3/package-lock.json?table:3.8.3/ajv:^4.7.0",
+    "vulnerabilities": [
+      {
+        "source": "OSSINDEX",
+        "name": "CVE-2020-15366",
+        "severity": "MEDIUM",
+        "cvss": 5.6
+      }
+    ]
+  },
+  {
+    "fileName": "async:1.5.2",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/fancy-log/v1.3.3/package-lock.json?/async:1.5.2",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2021-43138",
+        "severity": "HIGH",
+        "cvss": 6.8
+      }
+    ]
+  },
+  {
+    "fileName": "cryptiles:2.0.5",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/fancy-log/v1.3.3/package-lock.json?/cryptiles:2.0.5",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2018-1000620",
+        "severity": "CRITICAL",
+        "cvss": 5
+      }
+    ]
+  },
+  {
+    "fileName": "debug:2.6.8",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/fancy-log/v1.3.3/package-lock.json?mocha:3.5.3/debug:2.6.8",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2017-20165",
+        "severity": "HIGH",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2017-16137",
+        "severity": "MEDIUM",
+        "cvss": 5
+      }
+    ]
+  },
+  {
+    "fileName": "growl:1.9.2",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/fancy-log/v1.3.3/package-lock.json?mocha:3.5.3/growl:1.9.2",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2017-16042",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      }
+    ]
+  },
+  {
+    "fileName": "hawk:3.1.3",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/fancy-log/v1.3.3/package-lock.json?request:2.79.0/hawk:~3.1.3",
+    "vulnerabilities": [
+      {
+        "source": "OSSINDEX",
+        "name": "CVE-2022-29167",
+        "severity": "HIGH",
+        "cvss": 7.5
+      }
+    ]
+  },
+  {
+    "fileName": "hoek:2.16.3",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/fancy-log/v1.3.3/package-lock.json?/hoek:2.16.3",
+    "vulnerabilities": [
+      {
+        "source": "OSSINDEX",
+        "name": "CVE-2018-3728",
+        "severity": "HIGH",
+        "cvss": 8.8
+      }
+    ]
+  },
+  {
+    "fileName": "minimist:0.0.8",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/fancy-log/v1.3.3/package-lock.json?/minimist:0.0.8",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2021-44906",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-7598",
+        "severity": "MEDIUM",
+        "cvss": 6.8
+      }
+    ]
+  },
+  {
+    "fileName": "request:2.79.0",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/fancy-log/v1.3.3/package-lock.json?/request:2.79.0",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2023-28155",
+        "severity": "MEDIUM",
+        "cvss": 6.1
+      }
+    ]
+  },
+  {
+    "fileName": "shelljs:0.6.1",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/fancy-log/v1.3.3/package-lock.json?/shelljs:0.6.1",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2022-0144",
+        "severity": "HIGH",
+        "cvss": 3.6
+      }
+    ]
+  },
+  {
+    "fileName": "tough-cookie:2.3.4",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/fancy-log/v1.3.3/package-lock.json?/tough-cookie:2.3.4",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2023-26136",
+        "severity": "CRITICAL",
+        "cvss": 9.8
+      }
+    ]
+  }
+]

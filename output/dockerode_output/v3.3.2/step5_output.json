@@ -1,0 +1,26 @@
+[
+  {
+    "fileName": "flat:4.1.1",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/dockerode/v3.3.2/package-lock.json?yargs-unparser:1.6.0/flat:^4.1.0",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2020-36632",
+        "severity": "CRITICAL",
+        "cvss": 9.8
+      }
+    ]
+  },
+  {
+    "fileName": "minimatch:3.0.4",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/dockerode/v3.3.2/package-lock.json?mocha:7.2.0/minimatch:3.0.4",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2022-3517",
+        "severity": "HIGH",
+        "cvss": 7.5
+      }
+    ]
+  }
+]

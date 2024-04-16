@@ -1,0 +1,24 @@
+{
+  "laggingDependencies": {
+    "@externs/nodejs": "1.5.0",
+    "@types/node": "10.17.60",
+    "google-closure-compiler": "20230502.0.0",
+    "mocha": "10.2.0",
+    "mock-require": "3.0.3",
+    "promises-aplus-tests": "2.1.2",
+    "tslib": "2.6.2"
+  },
+  "releaseInterval": {
+    "@externs/nodejs": 0,
+    "@types/node": 0,
+    "domino": -1,
+    "google-closure-compiler": 1,
+    "jest-environment-jsdom": 42,
+    "jest-environment-node": 42,
+    "jest": 42,
+    "mocha": 74,
+    "mock-require": 248,
+    "promises-aplus-tests": 329,
+    "tslib": 25
+  }
+}

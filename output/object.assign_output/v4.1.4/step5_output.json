@@ -1,0 +1,836 @@
+[
+  {
+    "fileName": "async:^1.4.0",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/object.assign/v4.1.4/package-lock.json?handlebars:4.0.8/async:^1.4.0",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2021-43138",
+        "severity": "HIGH",
+        "cvss": 6.8
+      }
+    ]
+  },
+  {
+    "fileName": "braces:^1.8.2",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/object.assign/v4.1.4/package-lock.json?micromatch:2.3.11/braces:^1.8.2",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2018-1109",
+        "severity": "MEDIUM",
+        "cvss": 5
+      }
+    ]
+  },
+  {
+    "fileName": "glob-parent:2.0.0",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/object.assign/v4.1.4/package-lock.json?/glob-parent:2.0.0",
+    "vulnerabilities": [
+      {
+        "source": "OSSINDEX",
+        "name": "CVE-2020-28469",
+        "severity": "HIGH",
+        "cvss": 7.5
+      }
+    ]
+  },
+  {
+    "fileName": "got:6.7.1",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/object.assign/v4.1.4/package-lock.json?package-json:4.0.1/got:^6.7.1",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2022-33987",
+        "severity": "MEDIUM",
+        "cvss": 5
+      }
+    ]
+  },
+  {
+    "fileName": "handlebars.amd.js",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/object.assign/v4.1.4/node_modules/nyc/node_modules/handlebars/dist/handlebars.amd.js",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2019-19919",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2021-23369",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2021-23383",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2019-20920",
+        "severity": "HIGH",
+        "cvss": 6.8
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2019-20922",
+        "severity": "HIGH",
+        "cvss": 7.8
+      },
+      {
+        "source": "RETIREJS",
+        "name": "A prototype pollution vulnerability in handlebars is exploitable if an attacker can control the template",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Prototype pollution",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Versions of `handlebars` prior to 3.0.8 or 4.5.2 are vulnerable to Arbitrary Code Execution. The package's lookup helper fails to properly validate templates, allowing attackers to submit templates that execute arbitrary JavaScript in the system. It can be used to run arbitrary code in a server processing Handlebars templates or on a victim's browser (effectively serving as Cross-Site Scripting).\n\nThe following template can be used to demonstrate the vulnerability:  \n```{{#with \"constructor\"}}\n\t{{#with split as |a|}}\n\t\t{{pop (push \"alert('Vulnerable Handlebars JS');\")}}\n\t\t{{#with (concat (lookup join (slice 0 1)))}}\n\t\t\t{{#each (slice 2 3)}}\n\t\t\t\t{{#with (apply 0 a)}}\n\t\t\t\t\t{{.}}\n\t\t\t\t{{/with}}\n\t\t\t{{/each}}\n\t\t{{/with}}\n\t{{/with}}\n{{/with}}```\n\n\n## Recommendation\n\nUpgrade to version 3.0.8, 4.5.2 or later.",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Versions of `handlebars` prior to 3.0.8 or 4.5.3 are vulnerable to Arbitrary Code Execution. The package's lookup helper fails to properly validate templates, allowing attackers to submit templates that execute arbitrary JavaScript in the system. It is due to an incomplete fix for a [previous issue](https://www.npmjs.com/advisories/1316). This vulnerability can be used to run arbitrary code in a server processing Handlebars templates or on a victim's browser (effectively serving as Cross-Site Scripting)",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "handlebars issue: 1495",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Affected versions of `handlebars` are vulnerable to Denial of Service. The package's parser may be forced into an endless loop while processing specially-crafted templates. This may allow attackers to exhaust system resources leading to Denial of Service.\n\n\n## Recommendation\n\nUpgrade to version 4.4.5 or later.",
+        "severity": "medium",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "handlebars issue: 1633",
+        "severity": "medium",
+        "cvss": null
+      }
+    ]
+  },
+  {
+    "fileName": "handlebars.amd.min.js",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/object.assign/v4.1.4/node_modules/nyc/node_modules/handlebars/dist/handlebars.amd.min.js",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2019-19919",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2021-23369",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2021-23383",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2019-20920",
+        "severity": "HIGH",
+        "cvss": 6.8
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2019-20922",
+        "severity": "HIGH",
+        "cvss": 7.8
+      },
+      {
+        "source": "RETIREJS",
+        "name": "A prototype pollution vulnerability in handlebars is exploitable if an attacker can control the template",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Prototype pollution",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Versions of `handlebars` prior to 3.0.8 or 4.5.2 are vulnerable to Arbitrary Code Execution. The package's lookup helper fails to properly validate templates, allowing attackers to submit templates that execute arbitrary JavaScript in the system. It can be used to run arbitrary code in a server processing Handlebars templates or on a victim's browser (effectively serving as Cross-Site Scripting).\n\nThe following template can be used to demonstrate the vulnerability:  \n```{{#with \"constructor\"}}\n\t{{#with split as |a|}}\n\t\t{{pop (push \"alert('Vulnerable Handlebars JS');\")}}\n\t\t{{#with (concat (lookup join (slice 0 1)))}}\n\t\t\t{{#each (slice 2 3)}}\n\t\t\t\t{{#with (apply 0 a)}}\n\t\t\t\t\t{{.}}\n\t\t\t\t{{/with}}\n\t\t\t{{/each}}\n\t\t{{/with}}\n\t{{/with}}\n{{/with}}```\n\n\n## Recommendation\n\nUpgrade to version 3.0.8, 4.5.2 or later.",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Versions of `handlebars` prior to 3.0.8 or 4.5.3 are vulnerable to Arbitrary Code Execution. The package's lookup helper fails to properly validate templates, allowing attackers to submit templates that execute arbitrary JavaScript in the system. It is due to an incomplete fix for a [previous issue](https://www.npmjs.com/advisories/1316). This vulnerability can be used to run arbitrary code in a server processing Handlebars templates or on a victim's browser (effectively serving as Cross-Site Scripting)",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "handlebars issue: 1495",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Affected versions of `handlebars` are vulnerable to Denial of Service. The package's parser may be forced into an endless loop while processing specially-crafted templates. This may allow attackers to exhaust system resources leading to Denial of Service.\n\n\n## Recommendation\n\nUpgrade to version 4.4.5 or later.",
+        "severity": "medium",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "handlebars issue: 1633",
+        "severity": "medium",
+        "cvss": null
+      }
+    ]
+  },
+  {
+    "fileName": "handlebars.js",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/object.assign/v4.1.4/node_modules/nyc/node_modules/handlebars/dist/handlebars.js",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2019-19919",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2021-23369",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2021-23383",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2019-20920",
+        "severity": "HIGH",
+        "cvss": 6.8
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2019-20922",
+        "severity": "HIGH",
+        "cvss": 7.8
+      },
+      {
+        "source": "RETIREJS",
+        "name": "A prototype pollution vulnerability in handlebars is exploitable if an attacker can control the template",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Prototype pollution",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Versions of `handlebars` prior to 3.0.8 or 4.5.2 are vulnerable to Arbitrary Code Execution. The package's lookup helper fails to properly validate templates, allowing attackers to submit templates that execute arbitrary JavaScript in the system. It can be used to run arbitrary code in a server processing Handlebars templates or on a victim's browser (effectively serving as Cross-Site Scripting).\n\nThe following template can be used to demonstrate the vulnerability:  \n```{{#with \"constructor\"}}\n\t{{#with split as |a|}}\n\t\t{{pop (push \"alert('Vulnerable Handlebars JS');\")}}\n\t\t{{#with (concat (lookup join (slice 0 1)))}}\n\t\t\t{{#each (slice 2 3)}}\n\t\t\t\t{{#with (apply 0 a)}}\n\t\t\t\t\t{{.}}\n\t\t\t\t{{/with}}\n\t\t\t{{/each}}\n\t\t{{/with}}\n\t{{/with}}\n{{/with}}```\n\n\n## Recommendation\n\nUpgrade to version 3.0.8, 4.5.2 or later.",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Versions of `handlebars` prior to 3.0.8 or 4.5.3 are vulnerable to Arbitrary Code Execution. The package's lookup helper fails to properly validate templates, allowing attackers to submit templates that execute arbitrary JavaScript in the system. It is due to an incomplete fix for a [previous issue](https://www.npmjs.com/advisories/1316). This vulnerability can be used to run arbitrary code in a server processing Handlebars templates or on a victim's browser (effectively serving as Cross-Site Scripting)",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "handlebars issue: 1495",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Affected versions of `handlebars` are vulnerable to Denial of Service. The package's parser may be forced into an endless loop while processing specially-crafted templates. This may allow attackers to exhaust system resources leading to Denial of Service.\n\n\n## Recommendation\n\nUpgrade to version 4.4.5 or later.",
+        "severity": "medium",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "handlebars issue: 1633",
+        "severity": "medium",
+        "cvss": null
+      }
+    ]
+  },
+  {
+    "fileName": "handlebars.min.js",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/object.assign/v4.1.4/node_modules/nyc/node_modules/handlebars/dist/handlebars.min.js",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2019-19919",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2021-23369",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2021-23383",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2019-20920",
+        "severity": "HIGH",
+        "cvss": 6.8
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2019-20922",
+        "severity": "HIGH",
+        "cvss": 7.8
+      },
+      {
+        "source": "RETIREJS",
+        "name": "A prototype pollution vulnerability in handlebars is exploitable if an attacker can control the template",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Prototype pollution",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Versions of `handlebars` prior to 3.0.8 or 4.5.2 are vulnerable to Arbitrary Code Execution. The package's lookup helper fails to properly validate templates, allowing attackers to submit templates that execute arbitrary JavaScript in the system. It can be used to run arbitrary code in a server processing Handlebars templates or on a victim's browser (effectively serving as Cross-Site Scripting).\n\nThe following template can be used to demonstrate the vulnerability:  \n```{{#with \"constructor\"}}\n\t{{#with split as |a|}}\n\t\t{{pop (push \"alert('Vulnerable Handlebars JS');\")}}\n\t\t{{#with (concat (lookup join (slice 0 1)))}}\n\t\t\t{{#each (slice 2 3)}}\n\t\t\t\t{{#with (apply 0 a)}}\n\t\t\t\t\t{{.}}\n\t\t\t\t{{/with}}\n\t\t\t{{/each}}\n\t\t{{/with}}\n\t{{/with}}\n{{/with}}```\n\n\n## Recommendation\n\nUpgrade to version 3.0.8, 4.5.2 or later.",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Versions of `handlebars` prior to 3.0.8 or 4.5.3 are vulnerable to Arbitrary Code Execution. The package's lookup helper fails to properly validate templates, allowing attackers to submit templates that execute arbitrary JavaScript in the system. It is due to an incomplete fix for a [previous issue](https://www.npmjs.com/advisories/1316). This vulnerability can be used to run arbitrary code in a server processing Handlebars templates or on a victim's browser (effectively serving as Cross-Site Scripting)",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "handlebars issue: 1495",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Affected versions of `handlebars` are vulnerable to Denial of Service. The package's parser may be forced into an endless loop while processing specially-crafted templates. This may allow attackers to exhaust system resources leading to Denial of Service.\n\n\n## Recommendation\n\nUpgrade to version 4.4.5 or later.",
+        "severity": "medium",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "handlebars issue: 1633",
+        "severity": "medium",
+        "cvss": null
+      }
+    ]
+  },
+  {
+    "fileName": "handlebars.runtime.amd.js",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/object.assign/v4.1.4/node_modules/nyc/node_modules/handlebars/dist/handlebars.runtime.amd.js",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2019-19919",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2021-23369",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2021-23383",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2019-20920",
+        "severity": "HIGH",
+        "cvss": 6.8
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2019-20922",
+        "severity": "HIGH",
+        "cvss": 7.8
+      },
+      {
+        "source": "RETIREJS",
+        "name": "A prototype pollution vulnerability in handlebars is exploitable if an attacker can control the template",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Prototype pollution",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Versions of `handlebars` prior to 3.0.8 or 4.5.2 are vulnerable to Arbitrary Code Execution. The package's lookup helper fails to properly validate templates, allowing attackers to submit templates that execute arbitrary JavaScript in the system. It can be used to run arbitrary code in a server processing Handlebars templates or on a victim's browser (effectively serving as Cross-Site Scripting).\n\nThe following template can be used to demonstrate the vulnerability:  \n```{{#with \"constructor\"}}\n\t{{#with split as |a|}}\n\t\t{{pop (push \"alert('Vulnerable Handlebars JS');\")}}\n\t\t{{#with (concat (lookup join (slice 0 1)))}}\n\t\t\t{{#each (slice 2 3)}}\n\t\t\t\t{{#with (apply 0 a)}}\n\t\t\t\t\t{{.}}\n\t\t\t\t{{/with}}\n\t\t\t{{/each}}\n\t\t{{/with}}\n\t{{/with}}\n{{/with}}```\n\n\n## Recommendation\n\nUpgrade to version 3.0.8, 4.5.2 or later.",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Versions of `handlebars` prior to 3.0.8 or 4.5.3 are vulnerable to Arbitrary Code Execution. The package's lookup helper fails to properly validate templates, allowing attackers to submit templates that execute arbitrary JavaScript in the system. It is due to an incomplete fix for a [previous issue](https://www.npmjs.com/advisories/1316). This vulnerability can be used to run arbitrary code in a server processing Handlebars templates or on a victim's browser (effectively serving as Cross-Site Scripting)",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "handlebars issue: 1495",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Affected versions of `handlebars` are vulnerable to Denial of Service. The package's parser may be forced into an endless loop while processing specially-crafted templates. This may allow attackers to exhaust system resources leading to Denial of Service.\n\n\n## Recommendation\n\nUpgrade to version 4.4.5 or later.",
+        "severity": "medium",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "handlebars issue: 1633",
+        "severity": "medium",
+        "cvss": null
+      }
+    ]
+  },
+  {
+    "fileName": "handlebars.runtime.amd.min.js",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/object.assign/v4.1.4/node_modules/nyc/node_modules/handlebars/dist/handlebars.runtime.amd.min.js",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2019-19919",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2021-23369",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2021-23383",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2019-20920",
+        "severity": "HIGH",
+        "cvss": 6.8
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2019-20922",
+        "severity": "HIGH",
+        "cvss": 7.8
+      },
+      {
+        "source": "RETIREJS",
+        "name": "A prototype pollution vulnerability in handlebars is exploitable if an attacker can control the template",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Prototype pollution",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Versions of `handlebars` prior to 3.0.8 or 4.5.2 are vulnerable to Arbitrary Code Execution. The package's lookup helper fails to properly validate templates, allowing attackers to submit templates that execute arbitrary JavaScript in the system. It can be used to run arbitrary code in a server processing Handlebars templates or on a victim's browser (effectively serving as Cross-Site Scripting).\n\nThe following template can be used to demonstrate the vulnerability:  \n```{{#with \"constructor\"}}\n\t{{#with split as |a|}}\n\t\t{{pop (push \"alert('Vulnerable Handlebars JS');\")}}\n\t\t{{#with (concat (lookup join (slice 0 1)))}}\n\t\t\t{{#each (slice 2 3)}}\n\t\t\t\t{{#with (apply 0 a)}}\n\t\t\t\t\t{{.}}\n\t\t\t\t{{/with}}\n\t\t\t{{/each}}\n\t\t{{/with}}\n\t{{/with}}\n{{/with}}```\n\n\n## Recommendation\n\nUpgrade to version 3.0.8, 4.5.2 or later.",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Versions of `handlebars` prior to 3.0.8 or 4.5.3 are vulnerable to Arbitrary Code Execution. The package's lookup helper fails to properly validate templates, allowing attackers to submit templates that execute arbitrary JavaScript in the system. It is due to an incomplete fix for a [previous issue](https://www.npmjs.com/advisories/1316). This vulnerability can be used to run arbitrary code in a server processing Handlebars templates or on a victim's browser (effectively serving as Cross-Site Scripting)",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "handlebars issue: 1495",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Affected versions of `handlebars` are vulnerable to Denial of Service. The package's parser may be forced into an endless loop while processing specially-crafted templates. This may allow attackers to exhaust system resources leading to Denial of Service.\n\n\n## Recommendation\n\nUpgrade to version 4.4.5 or later.",
+        "severity": "medium",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "handlebars issue: 1633",
+        "severity": "medium",
+        "cvss": null
+      }
+    ]
+  },
+  {
+    "fileName": "handlebars.runtime.js",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/object.assign/v4.1.4/node_modules/nyc/node_modules/handlebars/dist/handlebars.runtime.js",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2019-19919",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2021-23369",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2021-23383",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2019-20920",
+        "severity": "HIGH",
+        "cvss": 6.8
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2019-20922",
+        "severity": "HIGH",
+        "cvss": 7.8
+      },
+      {
+        "source": "RETIREJS",
+        "name": "A prototype pollution vulnerability in handlebars is exploitable if an attacker can control the template",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Prototype pollution",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Versions of `handlebars` prior to 3.0.8 or 4.5.2 are vulnerable to Arbitrary Code Execution. The package's lookup helper fails to properly validate templates, allowing attackers to submit templates that execute arbitrary JavaScript in the system. It can be used to run arbitrary code in a server processing Handlebars templates or on a victim's browser (effectively serving as Cross-Site Scripting).\n\nThe following template can be used to demonstrate the vulnerability:  \n```{{#with \"constructor\"}}\n\t{{#with split as |a|}}\n\t\t{{pop (push \"alert('Vulnerable Handlebars JS');\")}}\n\t\t{{#with (concat (lookup join (slice 0 1)))}}\n\t\t\t{{#each (slice 2 3)}}\n\t\t\t\t{{#with (apply 0 a)}}\n\t\t\t\t\t{{.}}\n\t\t\t\t{{/with}}\n\t\t\t{{/each}}\n\t\t{{/with}}\n\t{{/with}}\n{{/with}}```\n\n\n## Recommendation\n\nUpgrade to version 3.0.8, 4.5.2 or later.",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Versions of `handlebars` prior to 3.0.8 or 4.5.3 are vulnerable to Arbitrary Code Execution. The package's lookup helper fails to properly validate templates, allowing attackers to submit templates that execute arbitrary JavaScript in the system. It is due to an incomplete fix for a [previous issue](https://www.npmjs.com/advisories/1316). This vulnerability can be used to run arbitrary code in a server processing Handlebars templates or on a victim's browser (effectively serving as Cross-Site Scripting)",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "handlebars issue: 1495",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Affected versions of `handlebars` are vulnerable to Denial of Service. The package's parser may be forced into an endless loop while processing specially-crafted templates. This may allow attackers to exhaust system resources leading to Denial of Service.\n\n\n## Recommendation\n\nUpgrade to version 4.4.5 or later.",
+        "severity": "medium",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "handlebars issue: 1633",
+        "severity": "medium",
+        "cvss": null
+      }
+    ]
+  },
+  {
+    "fileName": "handlebars.runtime.min.js",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/object.assign/v4.1.4/node_modules/nyc/node_modules/handlebars/dist/handlebars.runtime.min.js",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2019-19919",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2021-23369",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2021-23383",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2019-20920",
+        "severity": "HIGH",
+        "cvss": 6.8
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2019-20922",
+        "severity": "HIGH",
+        "cvss": 7.8
+      },
+      {
+        "source": "RETIREJS",
+        "name": "A prototype pollution vulnerability in handlebars is exploitable if an attacker can control the template",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Prototype pollution",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Versions of `handlebars` prior to 3.0.8 or 4.5.2 are vulnerable to Arbitrary Code Execution. The package's lookup helper fails to properly validate templates, allowing attackers to submit templates that execute arbitrary JavaScript in the system. It can be used to run arbitrary code in a server processing Handlebars templates or on a victim's browser (effectively serving as Cross-Site Scripting).\n\nThe following template can be used to demonstrate the vulnerability:  \n```{{#with \"constructor\"}}\n\t{{#with split as |a|}}\n\t\t{{pop (push \"alert('Vulnerable Handlebars JS');\")}}\n\t\t{{#with (concat (lookup join (slice 0 1)))}}\n\t\t\t{{#each (slice 2 3)}}\n\t\t\t\t{{#with (apply 0 a)}}\n\t\t\t\t\t{{.}}\n\t\t\t\t{{/with}}\n\t\t\t{{/each}}\n\t\t{{/with}}\n\t{{/with}}\n{{/with}}```\n\n\n## Recommendation\n\nUpgrade to version 3.0.8, 4.5.2 or later.",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Versions of `handlebars` prior to 3.0.8 or 4.5.3 are vulnerable to Arbitrary Code Execution. The package's lookup helper fails to properly validate templates, allowing attackers to submit templates that execute arbitrary JavaScript in the system. It is due to an incomplete fix for a [previous issue](https://www.npmjs.com/advisories/1316). This vulnerability can be used to run arbitrary code in a server processing Handlebars templates or on a victim's browser (effectively serving as Cross-Site Scripting)",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "handlebars issue: 1495",
+        "severity": "high",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "Affected versions of `handlebars` are vulnerable to Denial of Service. The package's parser may be forced into an endless loop while processing specially-crafted templates. This may allow attackers to exhaust system resources leading to Denial of Service.\n\n\n## Recommendation\n\nUpgrade to version 4.4.5 or later.",
+        "severity": "medium",
+        "cvss": null
+      },
+      {
+        "source": "RETIREJS",
+        "name": "handlebars issue: 1633",
+        "severity": "medium",
+        "cvss": null
+      }
+    ]
+  },
+  {
+    "fileName": "handlebars:^4.0.3",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/object.assign/v4.1.4/package-lock.json?istanbul-reports:1.1.0/handlebars:^4.0.3",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2021-23369",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2021-23383",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2019-20920",
+        "severity": "HIGH",
+        "cvss": 6.8
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2019-20922",
+        "severity": "HIGH",
+        "cvss": 7.8
+      }
+    ]
+  },
+  {
+    "fileName": "hosted-git-info:2.4.2",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/object.assign/v4.1.4/package-lock.json?/hosted-git-info:2.4.2",
+    "vulnerabilities": [
+      {
+        "source": "OSSINDEX",
+        "name": "CVE-2021-23362",
+        "severity": "MEDIUM",
+        "cvss": 5.3
+      }
+    ]
+  },
+  {
+    "fileName": "lodash:4.17.4",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/object.assign/v4.1.4/package-lock.json?/lodash:4.17.4",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2019-10744",
+        "severity": "CRITICAL",
+        "cvss": 6.4
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-8203",
+        "severity": "HIGH",
+        "cvss": 5.8
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2021-23337",
+        "severity": "HIGH",
+        "cvss": 6.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2018-3721",
+        "severity": "MEDIUM",
+        "cvss": 4
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2019-1010266",
+        "severity": "MEDIUM",
+        "cvss": 4
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2018-16487",
+        "severity": "MEDIUM",
+        "cvss": 6.8
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-28500",
+        "severity": "MEDIUM",
+        "cvss": 5
+      }
+    ]
+  },
+  {
+    "fileName": "minimatch:3.0.3",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/object.assign/v4.1.4/package-lock.json?/minimatch:3.0.3",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2022-3517",
+        "severity": "HIGH",
+        "cvss": 7.5
+      }
+    ]
+  },
+  {
+    "fileName": "ms:0.7.3",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/object.assign/v4.1.4/package-lock.json?/ms:0.7.3",
+    "vulnerabilities": [
+      {
+        "source": "OSSINDEX",
+        "name": "CVE-2017-20162",
+        "severity": "MEDIUM",
+        "cvss": 5.3
+      }
+    ]
+  },
+  {
+    "fileName": "path-parse:1.0.5",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/object.assign/v4.1.4/package-lock.json?/path-parse:1.0.5",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2021-23343",
+        "severity": "HIGH",
+        "cvss": 5
+      }
+    ]
+  },
+  {
+    "fileName": "randomatic:1.1.6",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/object.assign/v4.1.4/package-lock.json?/randomatic:1.1.6",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2017-16028",
+        "severity": "MEDIUM",
+        "cvss": 5
+      }
+    ]
+  },
+  {
+    "fileName": "ses:0.11.1",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/object.assign/v4.1.4/package-lock.json?/ses:0.11.1",
+    "vulnerabilities": [
+      {
+        "source": "NPM",
+        "name": "GHSA-whpx-q3rq-w8jc",
+        "severity": "low",
+        "cvss": null
+      }
+    ]
+  },
+  {
+    "fileName": "yargs-parser:5.0.0",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/object.assign/v4.1.4/package-lock.json?/yargs-parser:5.0.0",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2020-7608",
+        "severity": "MEDIUM",
+        "cvss": 4.6
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "fileName": "got:6.7.1",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/object.assign/v4.1.1/package-lock.json?package-json:4.0.1/got:^6.7.1",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2022-33987",
+        "severity": "MEDIUM",
+        "cvss": 5
+      }
+    ]
+  },
+  {
+    "fileName": "ses:0.10.4",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/object.assign/v4.1.1/package-lock.json?/ses:0.10.4",
+    "vulnerabilities": [
+      {
+        "source": "NPM",
+        "name": "GHSA-whpx-q3rq-w8jc",
+        "severity": "low",
+        "cvss": null
+      }
+    ]
+  }
+]

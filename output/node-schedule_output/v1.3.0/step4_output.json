@@ -1,0 +1,21 @@
+{
+  "laggingDependencies": {
+    "coveralls": "2.13.3",
+    "cron-parser": "2.18.0",
+    "eslint": "3.19.0",
+    "istanbul": "0.4.5",
+    "long-timeout": "0.1.1",
+    "nodeunit": "0.10.2",
+    "sinon": "1.17.7"
+  },
+  "releaseInterval": {
+    "coveralls": 344,
+    "cron-parser": 130,
+    "eslint": 14,
+    "istanbul": 50,
+    "long-timeout": 95,
+    "nodeunit": 235,
+    "sinon": 10,
+    "sorted-array-functions": 690
+  }
+}

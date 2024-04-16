@@ -1,0 +1,18 @@
+{
+  "laggingDependencies": {
+    "are-we-there-yet": "1.1.7",
+    "console-control-strings": "1.1.0",
+    "gauge": "2.7.4",
+    "set-blocking": "2.0.0",
+    "standard": "7.1.2",
+    "tap": "5.7.3"
+  },
+  "releaseInterval": {
+    "are-we-there-yet": 240,
+    "console-control-strings": 0,
+    "gauge": 188,
+    "set-blocking": 2,
+    "standard": 336,
+    "tap": 1
+  }
+}

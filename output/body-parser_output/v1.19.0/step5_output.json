@@ -1,0 +1,110 @@
+[
+  {
+    "fileName": "async:1.5.2",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/body-parser/v1.19.0/package-lock.json?/async:1.5.2",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2021-43138",
+        "severity": "HIGH",
+        "cvss": 6.8
+      }
+    ]
+  },
+  {
+    "fileName": "flat:4.1.1",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/body-parser/v1.19.0/package-lock.json?yargs-unparser:1.5.0/flat:^4.1.0",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2020-36632",
+        "severity": "CRITICAL",
+        "cvss": 9.8
+      }
+    ]
+  },
+  {
+    "fileName": "minimatch:3.0.4",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/body-parser/v1.19.0/package-lock.json?mocha:6.1.4/minimatch:3.0.4",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2022-3517",
+        "severity": "HIGH",
+        "cvss": 7.5
+      }
+    ]
+  },
+  {
+    "fileName": "minimist:0.0.8",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/body-parser/v1.19.0/package-lock.json?/minimist:0.0.8",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2021-44906",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-7598",
+        "severity": "MEDIUM",
+        "cvss": 6.8
+      }
+    ]
+  },
+  {
+    "fileName": "qs:6.7.0",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/body-parser/v1.19.0/package-lock.json?superagent:3.8.3/qs:^6.5.1",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2022-24999",
+        "severity": "HIGH",
+        "cvss": 7.5
+      },
+      {
+        "source": "NPM",
+        "name": "GHSA-hrpp-h998-j3pp",
+        "severity": "high",
+        "cvss": 7.5
+      }
+    ]
+  },
+  {
+    "fileName": "trim:0.0.1",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/body-parser/v1.19.0/package-lock.json?/trim:0.0.1",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2020-7753",
+        "severity": "HIGH",
+        "cvss": 5
+      }
+    ]
+  },
+  {
+    "fileName": "yargs-parser:11.1.1",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/body-parser/v1.19.0/package-lock.json?/yargs-parser:11.1.1",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2020-7608",
+        "severity": "MEDIUM",
+        "cvss": 4.6
+      }
+    ]
+  },
+  {
+    "fileName": "yargs-parser:13.0.0",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/body-parser/v1.19.0/package-lock.json?/yargs-parser:13.0.0",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2020-7608",
+        "severity": "MEDIUM",
+        "cvss": 4.6
+      }
+    ]
+  }
+]

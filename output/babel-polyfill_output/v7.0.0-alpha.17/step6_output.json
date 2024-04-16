@@ -1,0 +1,20 @@
+{
+  "paths": [],
+  "dependencies": {
+    "core-js": {
+      "dependencyTypes": [
+        "lagging"
+      ],
+      "highestCvssScore": -1,
+      "intervals": 12
+    },
+    "regenerator-runtime": {
+      "dependencyTypes": [
+        "lagging"
+      ],
+      "highestCvssScore": -1,
+      "intervals": 231
+    }
+  },
+  "vulnerabilityExposure": {}
+}

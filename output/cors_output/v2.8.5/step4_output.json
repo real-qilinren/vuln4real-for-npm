@@ -1,0 +1,22 @@
+{
+  "laggingDependencies": {
+    "after": "0.8.2",
+    "eslint": "2.13.1",
+    "express": "4.16.3",
+    "mocha": "5.2.0",
+    "nyc": "13.1.0",
+    "object-assign": "4.1.1",
+    "supertest": "3.3.0",
+    "vary": "1.1.2"
+  },
+  "releaseInterval": {
+    "after": 942,
+    "eslint": 14,
+    "express": 133,
+    "mocha": 74,
+    "nyc": 65,
+    "object-assign": 249,
+    "supertest": 12,
+    "vary": 241
+  }
+}

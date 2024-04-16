@@ -1,0 +1,176 @@
+[
+  {
+    "fileName": "async:0.2.10",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/cors/v2.6.1/package-lock.json?form-data:0.1.2/async:~0.2.9",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2021-43138",
+        "severity": "HIGH",
+        "cvss": 6.8
+      }
+    ]
+  },
+  {
+    "fileName": "cookiejar:1.3.2",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/cors/v2.6.1/package-lock.json?superagent:0.18.0/cookiejar:1.3.2",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2022-25901",
+        "severity": "HIGH",
+        "cvss": 7.5
+      }
+    ]
+  },
+  {
+    "fileName": "debug:0.7.4",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/cors/v2.6.1/package-lock.json?/debug:0.7.4",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2017-20165",
+        "severity": "HIGH",
+        "cvss": 7.5
+      }
+    ]
+  },
+  {
+    "fileName": "debug:2.0.0",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/cors/v2.6.1/package-lock.json?/debug:2.0.0",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2017-20165",
+        "severity": "HIGH",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2017-16137",
+        "severity": "MEDIUM",
+        "cvss": 5
+      }
+    ]
+  },
+  {
+    "fileName": "extend:1.2.1",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/cors/v2.6.1/package-lock.json?superagent:0.18.0/extend:~1.2.1",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2018-16492",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      }
+    ]
+  },
+  {
+    "fileName": "growl:1.8.1",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/cors/v2.6.1/package-lock.json?mocha:1.21.5/growl:1.8.1",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2017-16042",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      }
+    ]
+  },
+  {
+    "fileName": "mime:1.2.11",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/cors/v2.6.1/package-lock.json?/mime:1.2.11",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2017-16138",
+        "severity": "HIGH",
+        "cvss": 5
+      }
+    ]
+  },
+  {
+    "fileName": "mime:1.2.5",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/cors/v2.6.1/package-lock.json?/mime:1.2.5",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2017-16138",
+        "severity": "HIGH",
+        "cvss": 5
+      }
+    ]
+  },
+  {
+    "fileName": "minimatch:0.2.14",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/cors/v2.6.1/package-lock.json?/minimatch:0.2.14",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2016-10540",
+        "severity": "HIGH",
+        "cvss": 5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2022-3517",
+        "severity": "HIGH",
+        "cvss": 7.5
+      }
+    ]
+  },
+  {
+    "fileName": "minimist:0.0.8",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/cors/v2.6.1/package-lock.json?mkdirp:0.5.0/minimist:0.0.8",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2021-44906",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2020-7598",
+        "severity": "MEDIUM",
+        "cvss": 6.8
+      }
+    ]
+  },
+  {
+    "fileName": "qs:0.6.6",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/cors/v2.6.1/package-lock.json?/qs:0.6.6",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2014-10064",
+        "severity": "HIGH",
+        "cvss": 5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2022-24999",
+        "severity": "HIGH",
+        "cvss": 7.5
+      },
+      {
+        "source": "OSSINDEX",
+        "name": "CVE-2014-7191",
+        "severity": "MEDIUM",
+        "cvss": 5
+      }
+    ]
+  },
+  {
+    "fileName": "superagent:0.18.0",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/cors/v2.6.1/package-lock.json?supertest:0.12.1/superagent:0.18.0",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2017-16129",
+        "severity": "MEDIUM",
+        "cvss": 7.1
+      }
+    ]
+  }
+]

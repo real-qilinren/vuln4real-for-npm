@@ -1,0 +1,34 @@
+{
+  "laggingDependencies": {
+    "assert-rejects": "0.1.1",
+    "busboy": "0.2.14",
+    "express": "4.18.2",
+    "form-data": "2.5.1",
+    "fs-temp": "1.2.1",
+    "get-stream": "2.3.1",
+    "hasha": "2.2.0",
+    "mocha": "3.5.3",
+    "pify": "2.3.0",
+    "pump": "1.0.3",
+    "standard": "8.6.0",
+    "testdata-w3c-json-form": "0.2.1",
+    "type-is": "1.6.18"
+  },
+  "releaseInterval": {
+    "append-field": 1635,
+    "assert-rejects": 481,
+    "busboy": 39,
+    "express": 133,
+    "form-data": 77,
+    "fs-temp": 157,
+    "get-stream": 15,
+    "hasha": 51,
+    "mocha": 74,
+    "on-finished": 397,
+    "pify": 222,
+    "pump": 19,
+    "standard": 336,
+    "testdata-w3c-json-form": 603,
+    "type-is": 81
+  }
+}

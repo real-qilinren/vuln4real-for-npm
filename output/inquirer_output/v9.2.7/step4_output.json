@@ -1,0 +1,33 @@
+{
+  "laggingDependencies": {
+    "ansi-escapes": "4.3.2",
+    "cli-cursor": "3.1.0",
+    "external-editor": "3.1.0",
+    "figures": "5.0.0",
+    "lodash": "4.17.21",
+    "ora": "5.4.1",
+    "rxjs": "7.8.1",
+    "string-width": "4.2.3",
+    "terminal-link": "3.0.0",
+    "through": "2.3.8",
+    "wrap-ansi": "6.2.0"
+  },
+  "releaseInterval": {
+    "ansi-escapes": 77,
+    "chalk": 172,
+    "cli-cursor": 680,
+    "cli-width": 516,
+    "external-editor": 251,
+    "figures": 78,
+    "lodash": 159,
+    "mute-stream": 1286,
+    "ora": 17,
+    "run-async": 934,
+    "rxjs": 15,
+    "string-width": 154,
+    "strip-ansi": 500,
+    "terminal-link": 394,
+    "through": 119,
+    "wrap-ansi": 309
+  }
+}

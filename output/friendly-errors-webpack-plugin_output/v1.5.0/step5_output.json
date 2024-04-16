@@ -1,0 +1,194 @@
+[
+  {
+    "fileName": "ajv:4.11.8",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/friendly-errors-webpack-plugin/v1.5.0/package-lock.json?/ajv:4.11.8",
+    "vulnerabilities": [
+      {
+        "source": "OSSINDEX",
+        "name": "CVE-2020-15366",
+        "severity": "MEDIUM",
+        "cvss": 5.6
+      }
+    ]
+  },
+  {
+    "fileName": "babel-traverse:6.26.0",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/friendly-errors-webpack-plugin/v1.5.0/package-lock.json?istanbul-lib-instrument:1.10.2/babel-traverse:^6.18.0",
+    "vulnerabilities": [
+      {
+        "source": "OSSINDEX",
+        "name": "CVE-2023-45133",
+        "severity": "HIGH",
+        "cvss": 8.8
+      }
+    ]
+  },
+  {
+    "fileName": "braces:1.8.5",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/friendly-errors-webpack-plugin/v1.5.0/package-lock.json?micromatch:2.3.11/braces:^1.8.2",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2018-1109",
+        "severity": "MEDIUM",
+        "cvss": 5
+      }
+    ]
+  },
+  {
+    "fileName": "glob-parent:2.0.0",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/friendly-errors-webpack-plugin/v1.5.0/package-lock.json?/glob-parent:2.0.0",
+    "vulnerabilities": [
+      {
+        "source": "OSSINDEX",
+        "name": "CVE-2020-28469",
+        "severity": "HIGH",
+        "cvss": 7.5
+      }
+    ]
+  },
+  {
+    "fileName": "glob-parent:3.1.0",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/friendly-errors-webpack-plugin/v1.5.0/package-lock.json?/glob-parent:3.1.0",
+    "vulnerabilities": [
+      {
+        "source": "OSSINDEX",
+        "name": "CVE-2020-28469",
+        "severity": "HIGH",
+        "cvss": 7.5
+      }
+    ]
+  },
+  {
+    "fileName": "json5:0.5.1",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/friendly-errors-webpack-plugin/v1.5.0/package-lock.json?webpack:2.7.0/json5:^0.5.1",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2022-46175",
+        "severity": "HIGH",
+        "cvss": 8.8
+      }
+    ]
+  },
+  {
+    "fileName": "loader-utils:0.2.17",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/friendly-errors-webpack-plugin/v1.5.0/package-lock.json?webpack:2.7.0/loader-utils:^0.2.16",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2022-37601",
+        "severity": "CRITICAL",
+        "cvss": 9.8
+      },
+      {
+        "source": "OSSINDEX",
+        "name": "CVE-2022-37599",
+        "severity": "HIGH",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2022-37603",
+        "severity": "HIGH",
+        "cvss": 7.5
+      }
+    ]
+  },
+  {
+    "fileName": "marked:0.7.0",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/friendly-errors-webpack-plugin/v1.5.0/package-lock.json?/marked:0.7.0",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2022-21680",
+        "severity": "HIGH",
+        "cvss": 5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2022-21681",
+        "severity": "HIGH",
+        "cvss": 5
+      }
+    ]
+  },
+  {
+    "fileName": "merge:1.2.1",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/friendly-errors-webpack-plugin/v1.5.0/package-lock.json?/merge:1.2.1",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2020-28499",
+        "severity": "CRITICAL",
+        "cvss": 7.5
+      },
+      {
+        "source": "NVD",
+        "name": "CVE-2021-23397",
+        "severity": "CRITICAL",
+        "cvss": 9.8
+      }
+    ]
+  },
+  {
+    "fileName": "node-notifier:4.6.1",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/friendly-errors-webpack-plugin/v1.5.0/package-lock.json?/node-notifier:4.6.1",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2020-7789",
+        "severity": "MEDIUM",
+        "cvss": 6.8
+      }
+    ]
+  },
+  {
+    "fileName": "request:2.88.2",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/friendly-errors-webpack-plugin/v1.5.0/package-lock.json?/request:2.88.2",
+    "vulnerabilities": [
+      {
+        "source": "OSSINDEX",
+        "name": "CVE-2023-28155",
+        "severity": "MEDIUM",
+        "cvss": 6.1
+      }
+    ]
+  },
+  {
+    "fileName": "shelljs:0.7.8",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/friendly-errors-webpack-plugin/v1.5.0/package-lock.json?/shelljs:0.7.8",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2022-0144",
+        "severity": "HIGH",
+        "cvss": 3.6
+      }
+    ]
+  },
+  {
+    "fileName": "tough-cookie:2.5.0",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/friendly-errors-webpack-plugin/v1.5.0/package-lock.json?/tough-cookie:2.5.0",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2023-26136",
+        "severity": "CRITICAL",
+        "cvss": 9.8
+      }
+    ]
+  },
+  {
+    "fileName": "yargs-parser:4.2.1",
+    "filePath": "/Users/qilinren/个人资料/USYD/2023_Yr4/S2/ELEC4713/Dependency-Analyzer/libraries_to_scan/friendly-errors-webpack-plugin/v1.5.0/package-lock.json?/yargs-parser:4.2.1",
+    "vulnerabilities": [
+      {
+        "source": "NVD",
+        "name": "CVE-2020-7608",
+        "severity": "MEDIUM",
+        "cvss": 4.6
+      }
+    ]
+  }
+]

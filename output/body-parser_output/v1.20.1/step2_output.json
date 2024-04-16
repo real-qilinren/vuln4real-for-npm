@@ -1,0 +1,14 @@
+{
+  "eslint": "8.24.0",
+  "eslint-config-standard": "14.1.1",
+  "eslint-plugin-import": "2.26.0",
+  "eslint-plugin-markdown": "3.0.0",
+  "eslint-plugin-node": "11.1.0",
+  "eslint-plugin-promise": "6.0.1",
+  "eslint-plugin-standard": "4.1.0",
+  "methods": "1.1.2",
+  "mocha": "10.0.0",
+  "nyc": "15.1.0",
+  "safe-buffer": "5.2.1",
+  "supertest": "6.3.0"
+}

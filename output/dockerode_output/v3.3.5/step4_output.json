@@ -1,0 +1,20 @@
+{
+  "laggingDependencies": {
+    "@balena/dockerignore": "1.0.2",
+    "bluebird": "3.7.2",
+    "chai": "4.2.0",
+    "docker-modem": "3.0.8",
+    "memorystream": "0.3.1",
+    "mocha": "10.2.0",
+    "tar-fs": "2.0.1"
+  },
+  "releaseInterval": {
+    "@balena/dockerignore": 8,
+    "bluebird": 39,
+    "chai": 27,
+    "docker-modem": 14,
+    "memorystream": 201,
+    "mocha": 74,
+    "tar-fs": 11
+  }
+}

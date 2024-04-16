@@ -1,0 +1,34 @@
+{
+  "laggingDependencies": {
+    "escape-string-regexp": "4.0.0",
+    "eslint-config-apostrophe": "3.4.2",
+    "eslint-config-standard": "14.1.1",
+    "eslint-plugin-node": "11.1.0",
+    "eslint-plugin-promise": "4.3.1",
+    "eslint-plugin-standard": "4.1.0",
+    "eslint": "7.32.0",
+    "htmlparser2": "8.0.2",
+    "is-plain-object": "5.0.0",
+    "mocha": "7.2.0",
+    "parse-srcset": "1.0.2",
+    "postcss": "8.4.31",
+    "sinon": "9.2.4"
+  },
+  "releaseInterval": {
+    "deepmerge": 227,
+    "escape-string-regexp": 309,
+    "eslint-config-apostrophe": 120,
+    "eslint-config-standard": 338,
+    "eslint-plugin-import": 62,
+    "eslint-plugin-node": 93,
+    "eslint-plugin-promise": 21,
+    "eslint-plugin-standard": 30,
+    "eslint": 14,
+    "htmlparser2": 92,
+    "is-plain-object": 39,
+    "mocha": 74,
+    "parse-srcset": 0,
+    "postcss": 12,
+    "sinon": 10
+  }
+}
